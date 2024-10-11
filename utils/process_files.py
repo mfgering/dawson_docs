@@ -111,7 +111,7 @@ def split_declarations():
         "./article[@id='XX']","./article[@id='XXI']","./article[@id='XVIII']","./article[@id='XIX']",
         "./article[@id='XX']","./article[@id='XXI']"]
     ]
-    split, mdata = split_stuff('docs//dawson_declarations-2018.xml', chunk_paths)
+    split, mdata = split_stuff(f := f'{get_docs_dir()}/dawson_declarations-2018.xml', chunk_paths)
     return split, mdata, "declarations"
 
 def cpy_xml_txt_bylaws():
@@ -179,14 +179,14 @@ def split_bylaws():
     ["./article[@id='VIII']/section[@id='8.14']"],
     ["./article[@id='IX']","./article[@id='X']/section"]
     ]
-    split, mdata = split_stuff('docs//dawson_bylaws.xml', chunk_paths)
+    split, mdata = split_stuff(f := f'{get_docs_dir()}/dawson_bylaws.xml', chunk_paths)
     return split, mdata, "bylaws"
 
 def cpy_xml_txt_faqs():
     copy_file(f := f'{get_docs_dir()}/dawson_faqs.xml', f'{f}.txt')
 
 def split_faqs():    
-    tree = ET.parse('docs//dawson_faqs.xml')
+    tree = ET.parse(f := f'{get_docs_dir()}/dawson_faqs.xml')
     split = [ET.tostring(tree.getroot(), encoding="unicode")]
     mdata = [[]]
     return split, mdata, "faqs"
@@ -211,7 +211,7 @@ def split_maintenance():
     split = []
     mdata = []
     p1 = r"\|(.*?)\|(.*?)\|(.*?)\|"
-    with open('docs//dawson_maintenance.txt', 'r') as f:
+    with open(f := f'{get_docs_dir()}/dawson_maintenance.txt', 'r') as f:
         #curr_mdata = None
         #curr_content = None
         is_header = True
@@ -247,7 +247,7 @@ def split_test():
     chunk_paths =[    
         ["./article[@id='VIII']/section[@id='8.14']"],        
     ]
-    split, mdata = split_stuff('docs//dawson_declarations-2018.xml', chunk_paths)
+    split, mdata = split_stuff(f := f'{get_docs_dir()}/dawson_declarations-2018.xml', chunk_paths)
 
     return [], [], "test"
 
