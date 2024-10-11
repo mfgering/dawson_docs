@@ -10,6 +10,14 @@ from lxml import etree
 def do_split():
     return False
 
+def get_docs_dir():
+    # return path to docs dir
+    relative_path = '../docs'
+
+    # Get the absolute path
+    absolute_path = os.path.abspath(os.path.join(os.path.dirname(__file__), relative_path))
+    return absolute_path
+
 def copy_file(source, target):
     with open(source, 'rb') as src_file:
         with open(target, 'wb') as tgt_file:
@@ -58,7 +66,7 @@ def split_stuff(file_path, chunk_paths):
 
     return split, mdata
 def cpy_xml_txt_declarations():
-    copy_file(f := 'docs//dawson_declarations-2018.xml', f'{f}.txt')
+    copy_file(f := f'{get_docs_dir()}/dawson_declarations-2018.xml', f'{f}.txt')
 
 def split_declarations():
     chunk_paths = [ 
@@ -109,7 +117,7 @@ def split_declarations():
     return split, mdata, "declarations"
 
 def cpy_xml_txt_bylaws():
-    copy_file(f := 'docs//dawson_bylaws.xml', f'{f}.txt')
+    copy_file(f := f'{get_docs_dir()}/dawson_bylaws.xml', f'{f}.txt')
 
 def split_bylaws():    
     chunk_paths = [ 
@@ -177,7 +185,7 @@ def split_bylaws():
     return split, mdata, "bylaws"
 
 def cpy_xml_txt_faqs():
-    copy_file(f := 'docs//dawson_faqs.xml', f'{f}.txt')
+    copy_file(f := f'{get_docs_dir()}/dawson_faqs.xml', f'{f}.txt')
 
 def split_faqs():    
     tree = ET.parse('docs//dawson_faqs.xml')
@@ -186,12 +194,12 @@ def split_faqs():
     return split, mdata, "faqs"
 
 def cpy_xml_txt_rules():
-    copy_file(f := 'docs//dawson_rules.xml', f'{f}.txt')
+    copy_file(f := f'{get_docs_dir()}/dawson_rules.xml', f'{f}.txt')
 
 def split_rules():    
     split = []
     mdata = []
-    tree = ET.parse('docs//dawson_rules.xml')
+    tree = ET.parse(f'{get_docs_dir()}/dawson_rules.xml')
     for elem in tree.getroot().findall('./rule'):
         elem_string = ET.tostring(elem, encoding="unicode").replace('\n', ' ')
         split.append(elem_string)
