@@ -7,6 +7,9 @@ import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 from lxml import etree
 
+def do_split():
+    return False
+
 def copy_file(source, target):
     with open(source, 'rb') as src_file:
         with open(target, 'wb') as tgt_file:
@@ -55,7 +58,7 @@ def split_stuff(file_path, chunk_paths):
 
     return split, mdata
 def cpy_xml_txt_declarations():
-    copy_file('docs//dawson_declarations-2018.xml', 'docs//dawson_declarations-2018.xml.txt')
+    copy_file(f := 'docs//dawson_declarations-2018.xml', f'{f}.txt')
 
 def split_declarations():
     chunk_paths = [ 
@@ -106,7 +109,7 @@ def split_declarations():
     return split, mdata, "declarations"
 
 def cpy_xml_txt_bylaws():
-    copy_file('docs//dawson_bylaws.xml', 'docs//dawson_bylaws.xml.txt')
+    copy_file(f := 'docs//dawson_bylaws.xml', f'{f}.txt')
 
 def split_bylaws():    
     chunk_paths = [ 
@@ -174,7 +177,7 @@ def split_bylaws():
     return split, mdata, "bylaws"
 
 def cpy_xml_txt_faqs():
-    copy_file('docs//dawson_faqs.xml', 'docs//dawson_faqs.xml.txt')
+    copy_file(f := 'docs//dawson_faqs.xml', f'{f}.txt')
 
 def split_faqs():    
     tree = ET.parse('docs//dawson_faqs.xml')
@@ -183,7 +186,7 @@ def split_faqs():
     return split, mdata, "faqs"
 
 def cpy_xml_txt_rules():
-    copy_file(f := 'docs//dawson_faqs.xml', f'{f}.txt')
+    copy_file(f := 'docs//dawson_rules.xml', f'{f}.txt')
 
 def split_rules():    
     split = []
@@ -243,24 +246,25 @@ def split_test():
     return [], [], "test"
 
 for d in ['test', 'declarations', 'faqs', 'rules', 'maintenance', 'bylaws']:
-    build_dir = f"build/rag/{d}"
-    if os.path.exists(build_dir):
-        clean_dir(build_dir)
-    else:
-        os.makedirs(build_dir)
     f = globals().get(f"cpy_xml_txt_{d}")
     f()
-    f = globals().get(f"split_{d}")
-    split, mdata, fn_template = f()
-    assert len(split) == len(mdata), "Length mismatch"
-    # Create directory if it doesn't exist
-    
-    # Process each item in split and mdata
-    for i, (text, data) in enumerate(zip(split, mdata)):
-        with open(f"{build_dir}/{fn_template}-{i}.txt", 'w') as txt_file:
-            txt_file.write(text)
-        if len(data) > 0:
-            with open(f"{build_dir}/{fn_template}-{i}.json", 'w') as json_file:
-                json.dump(data, json_file)
+    if do_split():
+        build_dir = f"build/rag/{d}"
+        if os.path.exists(build_dir):
+            clean_dir(build_dir)
+        else:
+            os.makedirs(build_dir)
+        f = globals().get(f"split_{d}")
+        split, mdata, fn_template = f()
+        assert len(split) == len(mdata), "Length mismatch"
+        # Create directory if it doesn't exist
+        
+        # Process each item in split and mdata
+        for i, (text, data) in enumerate(zip(split, mdata)):
+            with open(f"{build_dir}/{fn_template}-{i}.txt", 'w') as txt_file:
+                txt_file.write(text)
+            if len(data) > 0:
+                with open(f"{build_dir}/{fn_template}-{i}.json", 'w') as json_file:
+                    json.dump(data, json_file)
 
 print("Done")
