@@ -1,14 +1,12 @@
 import dotenv
 import re
 import os
+import sys
 import json
 import shutil
 import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 from lxml import etree
-
-def do_split():
-    return False
 
 def get_docs_dir():
     # return path to docs dir
@@ -253,26 +251,29 @@ def split_test():
 
     return [], [], "test"
 
-for d in ['test', 'declarations', 'faqs', 'rules', 'maintenance', 'bylaws']:
-    f = globals().get(f"cpy_xml_txt_{d}")
-    f()
-    if do_split():
-        build_dir = f"build/rag/{d}"
-        if os.path.exists(build_dir):
-            clean_dir(build_dir)
-        else:
-            os.makedirs(build_dir)
-        f = globals().get(f"split_{d}")
-        split, mdata, fn_template = f()
-        assert len(split) == len(mdata), "Length mismatch"
-        # Create directory if it doesn't exist
-        
-        # Process each item in split and mdata
-        for i, (text, data) in enumerate(zip(split, mdata)):
-            with open(f"{build_dir}/{fn_template}-{i}.txt", 'w') as txt_file:
-                txt_file.write(text)
-            if len(data) > 0:
-                with open(f"{build_dir}/{fn_template}-{i}.json", 'w') as json_file:
-                    json.dump(data, json_file)
+if __name__ == "__main__":
+    is_split = True if len(sys.argv) > 1 and sys.argv[1].strip().lower() == 'split' else False
+    for d in ['test', 'declarations', 'faqs', 'rules', 'maintenance', 'bylaws']:
+        f = globals().get(f"cpy_xml_txt_{d}")
+        f()
+        if is_split:
+            build_dir = f"build/rag/{d}"
+            if os.path.exists(build_dir):
+                clean_dir(build_dir)
+            else:
+                os.makedirs(build_dir)
+            f = globals().get(f"split_{d}")
+            split, mdata, fn_template = f()
+            assert len(split) == len(mdata), "Length mismatch"
+            # Create directory if it doesn't exist
+            
+            # Process each item in split and mdata
+            for i, (text, data) in enumerate(zip(split, mdata)):
+                with open(f"{build_dir}/{fn_template}-{i}.txt", 'w') as txt_file:
+                    txt_file.write(text)
+                if len(data) > 0:
+                    with open(f"{build_dir}/{fn_template}-{i}.json", 'w') as json_file:
+                        json.dump(data, json_file)
 
-print("Done")
+        
+    print("Done")
