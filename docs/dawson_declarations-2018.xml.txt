@@ -72,7 +72,7 @@ to time be adopted.
 <section id="1.5" title="Common Elements">
 "Common Elements" shall mean and refer to all portions of the
 Condominium other than the Units, as depicted on the Plans, and as more particularly described
-in Section $.1 of this Declaration.
+in Section 5.1 of this Declaration.
 </section>
 <section id="1.6" title="Common Elements Interest">
 "Common Elements Interest" shall mean and refer to the undivided
@@ -1285,7 +1285,7 @@ Documents.
 The Association, the Executive Board and each Owner, by
 accepting a deed to a Unit, agrees that any party may require that any unresolved matter between
 the parties be submitted to binding arbitration pursuant to the Uniform Arbitration Act set forth
-in N.C, Gen. Stat. $1-567.1 et seq. as the same shall be amended from time to time. The fees and
+in N.C, Gen. Stat. §1-567.1 et seq. as the same shall be amended from time to time. The fees and
 expenses of arbitration shall be paid as set forth in the award and shall not be a Common
 Expense unless all Owners so agree in writing or unless such award is to be paid by the
 Association.

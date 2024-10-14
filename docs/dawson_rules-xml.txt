@@ -110,7 +110,7 @@ commencement, vendors/contractors shall coordinate access to the
 building through management company. All construction materials and
 vendors should only use the freight elevator. Owners are responsible for
 ensuring that contractors have reserved the use of the loading dock and
-freight elevator through management company. A fine of \$500 per
+freight elevator through management company. A fine of $500 per
 occurrence will be imposed to the homeowners account if the passenger
 elevator is used to transport any construction material in addition to
 any damages resulting. Construction vehicles must only park in the
@@ -121,7 +121,7 @@ employ. Work shall take place only between the hours of 8:00 am and 5:00
 pm Monday through Friday and 9:00 am to 3:00 pm on Saturdays and no work
 shall be performed during nationally recognized holidays. Owners are
 prohibited from performing work on or about the common areas without
-prior written permission. Failure to do so shall carry a fine of \$500
+prior written permission. Failure to do so shall carry a fine of $500
 When the work is completed, the Association and owner shall inspect the
 common areas to determine if any damage is deemed to have been caused by
 owner's vendor/contractors. The owner will be responsible for the cost
@@ -134,13 +134,13 @@ cost of the Building at the time such insurance is purchased. A separate
 policy designed for condominiums is required for personal property, and
 as well as a minimum liability insurance as established by the
 Association. The individual Property Owner is responsible for the
-Associations \$5,000 deductible. Coverage to pay this expense should be
+Associations $5,000 deductible. Coverage to pay this expense should be
 added to the owner's policy. The owner is responsible for liability
 claims that arise inside the unit, their own personal belongings and for
 displacement.
 </rule>
 <rule id="14" title="Keys">Each Owner is required to make one (1) key available to
-the Association for the unit\'s entry door. No Owner is permitted to
+the Association for the unit's entry door. No Owner is permitted to
 install new locks or rekey a Unit unless authorized by the Association
 (which authorization shall not be unreasonably withheld provided the
 work meets municipal codes and regulations) and provided Owner makes one
@@ -170,7 +170,7 @@ information for the landlord and the tenant shall be delivered to the
 Association prior to the tenant's occupancy. Evidence of insurance is
 also required. No Unit may be leased for a period shorter than six (6)
 months. Failure to provide a copy of the lease may subject the owner to
-a fine of \$500 per day once noted.
+a fine of $500 per day once noted.
 </rule>
 <rule id="16" title="Maintenance &amp; Repairs">Owners are responsible for all interior
 repairs and maintenance of their units. The condition of the common
@@ -206,8 +206,8 @@ parking is conveniently located across in several parking garages near
 the community for your guests, vendors, and other visitors to use while
 at the Dawson. The Association maintains the entire parking area: spaces
 drive isles, security gates, and fencing. The Association also maintains
-a master list of each owner\'s licensed parking space. Each unit owner
-is asked to use common courtesy: do not park in other owner\'s assigned
+a master list of each owner's licensed parking space. Each unit owner
+is asked to use common courtesy: do not park in other owner's assigned
 spaces, keep your vehicle inside the parking lines, drive slowly, and be
 careful opening your car doors. No owner, or any employee, agent, or
 invitee of any Owner, shall park, store, or keep any vehicle on the
@@ -218,9 +218,9 @@ vehicle may be stored on the Property at any time. The Association shall
 have the right to tow any vehicle in violation of this at the owner's
 expense. In addition to having the rights to tow, the Association shall
 have the right to levy fines as follows: First offense during any twelve
-(12) month period - \$50.00; Second Offense during any twelve (12) month
-period - \$75.00; any violations over two (2) in any twelve (12) month
-period - \$100.00. Fines imposed for parking violations shall be
+(12) month period - $50.00; Second Offense during any twelve (12) month
+period - $75.00; any violations over two (2) in any twelve (12) month
+period - $100.00. Fines imposed for parking violations shall be
 considered special assessments and shall be due and payable upon receipt
 of the parking violation.
 </rule>
@@ -231,7 +231,7 @@ passenger elevator at any time. All excrement from pets should be
 immediately cleaned up and removed and disposed of in a closed
 container. The City of Raleigh requires that all pets be curbed and that
 the owner dispose of the waste as stated above. The Association will
-assess a fine of \$250 to any owner that does not pick up pet waste. Do
+assess a fine of $250 to any owner that does not pick up pet waste. Do
 not allow pets to relieve themselves in the parking garage or any other
 common areas.
 </rule>
@@ -250,8 +250,8 @@ entry lobby and vehicle entry gate that are owner specific which records
 door and time/date of entry information. In addition to unit keys,
 owners will be supplied two (2) entry fobs to operate the first-floor
 lobby doors and vehicle entry gate. Additional entry fobs are available
-for \$15.00 each. Vehicle sticker transponders are available at owner
-request for \$15.00. Nine security cameras are included in the security
+for $15.00 each. Vehicle sticker transponders are available at owner
+request for $15.00. Nine security cameras are included in the security
 system package.
 </rule>
 <rule id="23" title="Signs and Flags">No signs or other advertising devices shall
@@ -322,8 +322,8 @@ caused by installation or use or roof leaks.
 </rule>
 <rule id="29" title="Storm Doors">No storm doors are allowed.
 </rule>
-<rule id="30" title="Window/door Screens">Per the \"Maintenance Responsibility
-Chart,\" homeowners are responsible for maintaining, removing, or
+<rule id="30" title="Window/door Screens">Per the "Maintenance Responsibility
+Chart," homeowners are responsible for maintaining, removing, or
 replacing window and sliding door screens. This includes facilitating
 Homeowners Association activities like window and building washing.
 Homeowners are also liable for damages from dropped screens. Replacement
