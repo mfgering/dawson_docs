@@ -183,10 +183,10 @@ def split_bylaws():
     return split, mdata, "bylaws"
 
 def cpy_xml_txt_faqs():
-    copy_file(f := f'{get_docs_dir()}/dawson_faqs.xml', f'{f}.txt')
+    copy_file(f := f'{get_docs_dir()}/dawson_facts.xml', f'{f}.txt')
 
 def split_faqs():    
-    tree = ET.parse(f := f'{get_docs_dir()}/dawson_faqs.xml')
+    tree = ET.parse(f := f'{get_docs_dir()}/dawson_facts.xml')
     split = [ET.tostring(tree.getroot(), encoding="unicode")]
     mdata = [[]]
     return split, mdata, "faqs"
