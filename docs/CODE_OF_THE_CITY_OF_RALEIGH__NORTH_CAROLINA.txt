@@ -143,8 +143,8 @@ ATTEST:
        Clerk 
 
 SUPPLEMENT HISTORY TABLE
-The table below allows users of this Code to quickly and accurately determine what ordinances have been considered for codification in each supplement. Ordinances that are of a general and permanent nature are codified in the Code Book and are considered "Includes." Ordinances that are not of a general and permanent nature are not codified in the Code Book and are considered "Omits." 
-In addition, by adding to this table with each supplement, users of this City Code will be able to gain a more complete picture of the Code's historical evolution. 
+The table below allows users of this Code to quickly and accurately determine what ordinances have been considered for codification in each supplement. Ordinances that are of a general and permanent nature are codified in the Code Book and are considered "Includes." Ordinances that are not of a general and permanent nature are not codified in the Code Book and are considered "Omits."
+In addition, by adding to this table with each supplement, users of this City Code will be able to gain a more complete picture of the Code's historical evolution.
 
 Ord. No.
 Date
@@ -153,922 +153,922 @@ Include/
 Omit
 Supp. No.
 Supp. No. 44
-2011-919 
- 6-21-11 
-Include 
-44 
-2011-920 
- 6-21-11 
-Include 
-44 
-2011-931 
- 7-19-11 
-Include 
-44 
-2011-941-TC-341[TC-5-11] 
- 9- 6-11 
-Include 
-44 
-2011-942 
- 9- 6-11 
-Include 
-44 
-2011-952 
-10- 4-11 
-Include 
-44 
-2011-953 
-10- 4-11 
-Include 
-44 
-2011-958 
-11- 1-11 
-Include 
-44 
-2011-961-TC-347[TC-7-11] 
-11- 1-11 
-Include 
-44 
-2011-962-TC-348[TC-8-11] 
-11- 1-11 
-Include 
-44 
-2011-963-TC-349[TC-10-11] 
-11- 1-11 
-Include 
-44 
-2011-964-TC-350[TC-11-11] 
-11- 1-11 
-Include 
-44 
-2011-967 
-11-15-11 
-Include 
-44 
-2011-980 
-11-15-11 
-Include 
-44 
-2011-981 
-12- 6-11 
-Include 
-44 
-2011-982 
-12- 6-11 
-Include 
-44 
-2011-989 
-12- 6-11 
-Include 
-44 
-2012-3 
- 1-17-12 
-Include 
-44 
-2012-8-TC-351[TC-1-12] 
- 2- 7-12 
-Include 
-44 
-2012-9-TC-352[TC-2-12] 
- 2- 7-12 
-Include 
-44 
-2012-16 
- 2-21-12 
-Include 
-44 
+2011-919
+ 6-21-11
+Include
+44
+2011-920
+ 6-21-11
+Include
+44
+2011-931
+ 7-19-11
+Include
+44
+2011-941-TC-341[TC-5-11]
+ 9- 6-11
+Include
+44
+2011-942
+ 9- 6-11
+Include
+44
+2011-952
+10- 4-11
+Include
+44
+2011-953
+10- 4-11
+Include
+44
+2011-958
+11- 1-11
+Include
+44
+2011-961-TC-347[TC-7-11]
+11- 1-11
+Include
+44
+2011-962-TC-348[TC-8-11]
+11- 1-11
+Include
+44
+2011-963-TC-349[TC-10-11]
+11- 1-11
+Include
+44
+2011-964-TC-350[TC-11-11]
+11- 1-11
+Include
+44
+2011-967
+11-15-11
+Include
+44
+2011-980
+11-15-11
+Include
+44
+2011-981
+12- 6-11
+Include
+44
+2011-982
+12- 6-11
+Include
+44
+2011-989
+12- 6-11
+Include
+44
+2012-3
+ 1-17-12
+Include
+44
+2012-8-TC-351[TC-1-12]
+ 2- 7-12
+Include
+44
+2012-9-TC-352[TC-2-12]
+ 2- 7-12
+Include
+44
+2012-16
+ 2-21-12
+Include
+44
 Supp. No. 45
-2011-918 
- 6-21-11 
-Include 
-45 
-2012-19 
- 3- 6-12 
-Include 
-45 
-2012-29 
- 3-20-12 
-Include 
-45 
-2012-31 
- 4- 3-12 
-Include 
-45 
-2012-35 
- 4- 3-12 
-Include 
-45 
-2012-38 
- 5- 1-12 
-Include 
-45 
-2012-39 
- 5- 1-12 
-Include 
-45 
-2012-40 
- 5- 1-12 
-Include 
-45 
-2012-41 
- 5- 1-12 
-Include 
-45 
-2012-42 
- 5- 1-12 
-Include 
-45 
-2012-48 
- 5-14-12 
-Include 
-45 
-2012-49 
- 5-14-12 
-Include 
-45 
-2012-52 
- 5-14-12 
-Include 
-45 
-2012-57 
- 6- 5-12 
-Include 
-45 
-2012-59 
- 6- 5-12 
-Include 
-45 
-2012-65 
- 6-18-12 
-Include 
-45 
-2012-66 
- 6-18-12 
-Include 
-45 
-2012-69 
- 6-18-12 
-Include 
-45 
-2012-70 
- 6-19-12 
-Include 
-45 
-2012-81 
- 6-19-12 
-Include 
-45 
-2012-82-TC-353[TC-7-09] 
- 6-19-12 
-Include 
-45 
-2012-87 
- 7- 3-12 
-Include 
-45 
-2012-97 
- 8- 7-12 
-Include 
-45 
+2011-918
+ 6-21-11
+Include
+45
+2012-19
+ 3- 6-12
+Include
+45
+2012-29
+ 3-20-12
+Include
+45
+2012-31
+ 4- 3-12
+Include
+45
+2012-35
+ 4- 3-12
+Include
+45
+2012-38
+ 5- 1-12
+Include
+45
+2012-39
+ 5- 1-12
+Include
+45
+2012-40
+ 5- 1-12
+Include
+45
+2012-41
+ 5- 1-12
+Include
+45
+2012-42
+ 5- 1-12
+Include
+45
+2012-48
+ 5-14-12
+Include
+45
+2012-49
+ 5-14-12
+Include
+45
+2012-52
+ 5-14-12
+Include
+45
+2012-57
+ 6- 5-12
+Include
+45
+2012-59
+ 6- 5-12
+Include
+45
+2012-65
+ 6-18-12
+Include
+45
+2012-66
+ 6-18-12
+Include
+45
+2012-69
+ 6-18-12
+Include
+45
+2012-70
+ 6-19-12
+Include
+45
+2012-81
+ 6-19-12
+Include
+45
+2012-82-TC-353[TC-7-09]
+ 6-19-12
+Include
+45
+2012-87
+ 7- 3-12
+Include
+45
+2012-97
+ 8- 7-12
+Include
+45
 Supp. No. 46
-2012-100 
- 9-18-12 
-Include 
-46 
-2012-108 
-10- 2-12 
-Include 
-46 
-2012-116 
-11- 6-12 
-Include 
-46 
-2012-120 
-11- 6-12 
-Include 
-46 
-2012-122 
-11-20-12 
-Include 
-46 
-2012-134-TC-354[TC-4-12] 
-12- 4-12 
-Include 
-46 
-2012-135-TC-355[TC-6-12] 
-12- 4-12 
-Include 
-46 
-2012-137 
-12- 4-12 
-Include 
-46 
+2012-100
+ 9-18-12
+Include
+46
+2012-108
+10- 2-12
+Include
+46
+2012-116
+11- 6-12
+Include
+46
+2012-120
+11- 6-12
+Include
+46
+2012-122
+11-20-12
+Include
+46
+2012-134-TC-354[TC-4-12]
+12- 4-12
+Include
+46
+2012-135-TC-355[TC-6-12]
+12- 4-12
+Include
+46
+2012-137
+12- 4-12
+Include
+46
 Supp. No. 47
-2013-148-TC-356[TC-5-12] 
- 2- 5-13 
-Include 
-47 
-2013-154-TC-358[TC-1-13] 
- 2-19-13 
-Include 
-47 
-2013-157 
- 2-19-13 
-Include 
-47 
-2013-161-ZC-685 
- 3- 5-13 
-Omit 
-47 
-2013-171 
- 4-16-13 
-Include 
-47 
-2013-172 
- 4-16-13 
-Include 
-47 
-2013-173 
- 4-16-13 
-Include 
-47 
-2013-174 
- 4-16-13 
-Include 
-47 
-2013-175 
- 4-16-13 
-Include 
-47 
-2013-176 
- 4-16-13 
-Include 
-47 
-2013-179 
- 4-16-13 
-Include 
-47 
-2013-184 
- 5- 7-13 
-Include 
-47 
-2013-185 
- 5- 7-13 
-Include 
-47 
-2013-197 
- 6-18-13 
-Include 
-47 
-2013-208 
- 6-18-13 
-Include 
-47 
-2013-209 
- 7- 2-13 
-Include 
-47 
-2013-210 
- 7- 2-13 
-Include 
-47 
-2013-221 
- 9- 3-13 
-Include 
-47 
+2013-148-TC-356[TC-5-12]
+ 2- 5-13
+Include
+47
+2013-154-TC-358[TC-1-13]
+ 2-19-13
+Include
+47
+2013-157
+ 2-19-13
+Include
+47
+2013-161-ZC-685
+ 3- 5-13
+Omit
+47
+2013-171
+ 4-16-13
+Include
+47
+2013-172
+ 4-16-13
+Include
+47
+2013-173
+ 4-16-13
+Include
+47
+2013-174
+ 4-16-13
+Include
+47
+2013-175
+ 4-16-13
+Include
+47
+2013-176
+ 4-16-13
+Include
+47
+2013-179
+ 4-16-13
+Include
+47
+2013-184
+ 5- 7-13
+Include
+47
+2013-185
+ 5- 7-13
+Include
+47
+2013-197
+ 6-18-13
+Include
+47
+2013-208
+ 6-18-13
+Include
+47
+2013-209
+ 7- 2-13
+Include
+47
+2013-210
+ 7- 2-13
+Include
+47
+2013-221
+ 9- 3-13
+Include
+47
 Supp. No. 48
-2013-151-TC-357[TC-3-12] 
- 2-18-13 
-Include 
-48 
-2013-239 
-11- 5-13 
-Include 
-48 
-2014-253 
- 1- 7-14 
-Include 
-48 
-2014-262 
- 1-21-14 
-Include 
-48 
-2014-282 
- 4- 1-14 
-Include 
-48 
-2014-284 
- 4-15-14 
-Include 
-48 
-2014-285 
- 4-15-14 
-Include 
-48 
-2014-289 
- 4-15-14 
-Include 
-48 
-2014-294 
- 5- 6-14 
-Include 
-48 
-2014-295 
- 5- 6-14 
-Include 
-48 
-2014-296 
- 5- 6-14 
-Include 
-48 
-2014-297 
- 5- 6-14 
-Include 
-48 
-2014-298 
- 5- 6-14 
-Include 
-48 
-2014-303 
- 5-20-14 
-Include 
-48 
-2014-319 
- 6- 9-14 
-Include 
-48 
-2014-337 
- 9- 2-14 
-Include 
-48 
-2014-340-TC-360[TC-3-14] 
- 9- 2-14 
-Include 
-48 
+2013-151-TC-357[TC-3-12]
+ 2-18-13
+Include
+48
+2013-239
+11- 5-13
+Include
+48
+2014-253
+ 1- 7-14
+Include
+48
+2014-262
+ 1-21-14
+Include
+48
+2014-282
+ 4- 1-14
+Include
+48
+2014-284
+ 4-15-14
+Include
+48
+2014-285
+ 4-15-14
+Include
+48
+2014-289
+ 4-15-14
+Include
+48
+2014-294
+ 5- 6-14
+Include
+48
+2014-295
+ 5- 6-14
+Include
+48
+2014-296
+ 5- 6-14
+Include
+48
+2014-297
+ 5- 6-14
+Include
+48
+2014-298
+ 5- 6-14
+Include
+48
+2014-303
+ 5-20-14
+Include
+48
+2014-319
+ 6- 9-14
+Include
+48
+2014-337
+ 9- 2-14
+Include
+48
+2014-340-TC-360[TC-3-14]
+ 9- 2-14
+Include
+48
 Supp. No. 49
-2014-343 
- 9-16-14 
-Include 
-49 
-2014-349 
-10- 7-14 
-Include 
-49 
-2014-360 
-10-21-14 
-Include 
-49 
-2014-370 
-12- 2-14 
-Include 
-49 
-2014-371 
-12- 2-14 
-Include 
-49 
-2015-386 
- 1- 6-15 
-Include 
-49 
-2015-396 
- 2-16-15 
-Include 
-49 
-2015-397 
- 2-16-15 
-Include 
-49 
-2015-401 
- 3- 3-15 
-Include 
-49 
-2015-414 
- 4- 2-15 
-Include 
-49 
-2015-415 
- 4- 7-15 
-Omit 
-49 
-2015-416 
- 4- 7-15 
-Include 
-49 
-2015-417 
- 4- 7-15 
-Include 
-49 
-2015-418 
- 4- 7-15 
-Include 
-49 
-2015-419 
- 4- 7-15 
-Include 
-49 
-2015-420 
- 4- 7-15 
-Include 
-49 
-2015-423-TC-364[TC-1(A)-14] 
- 4- 7-15 
-Include 
-49 
-2015-424-TC-365[TC-1(B)-14] 
- 4- 7-15 
-Include 
-49 
-2015-435-TC-368[TC-5-15] 
- 5- 5-15 
-Include 
-49 
-2015-439 
- 5-19-15 
-Include 
-49 
-2015-454 
- 6-15-15 
-Include 
-49 
+2014-343
+ 9-16-14
+Include
+49
+2014-349
+10- 7-14
+Include
+49
+2014-360
+10-21-14
+Include
+49
+2014-370
+12- 2-14
+Include
+49
+2014-371
+12- 2-14
+Include
+49
+2015-386
+ 1- 6-15
+Include
+49
+2015-396
+ 2-16-15
+Include
+49
+2015-397
+ 2-16-15
+Include
+49
+2015-401
+ 3- 3-15
+Include
+49
+2015-414
+ 4- 2-15
+Include
+49
+2015-415
+ 4- 7-15
+Omit
+49
+2015-416
+ 4- 7-15
+Include
+49
+2015-417
+ 4- 7-15
+Include
+49
+2015-418
+ 4- 7-15
+Include
+49
+2015-419
+ 4- 7-15
+Include
+49
+2015-420
+ 4- 7-15
+Include
+49
+2015-423-TC-364[TC-1(A)-14]
+ 4- 7-15
+Include
+49
+2015-424-TC-365[TC-1(B)-14]
+ 4- 7-15
+Include
+49
+2015-435-TC-368[TC-5-15]
+ 5- 5-15
+Include
+49
+2015-439
+ 5-19-15
+Include
+49
+2015-454
+ 6-15-15
+Include
+49
 Supp. No. 50
-2015-479 
- 8- 4-15 
-Include 
-50 
-2015-489 
- 9-15-15 
-Include 
-50 
-2015-491 
-10- 7-15 
-Include 
-50 
-2015-492 
-10- 7-15 
-Include 
-50 
-2015-502 
-10-20-15 
-Include 
-50 
-2015-519 
-11-17-15 
-Include 
-50 
-2015-525 
-12- 1-15 
-Include 
-50 
-2016-532 
- 1- 5-16 
-Include 
-50 
-2016-552 
- 3- 1-16 
-Include 
-50 
-2016-555 
- 3-15-16 
-Include 
-50 
-2016-561 
- 3-21-16 
-Omit 
-50 
-2016-562 
- 3-21-16 
-Include 
-50 
-2016-563 
- 3-21-16 
-Include 
-50 
-2016-565 
- 3-21-16 
-Include 
-50 
-2016-566 
- 3-21-16 
-Include 
-50 
-2016-567 
- 3-21-16 
-Include 
-50 
+2015-479
+ 8- 4-15
+Include
+50
+2015-489
+ 9-15-15
+Include
+50
+2015-491
+10- 7-15
+Include
+50
+2015-492
+10- 7-15
+Include
+50
+2015-502
+10-20-15
+Include
+50
+2015-519
+11-17-15
+Include
+50
+2015-525
+12- 1-15
+Include
+50
+2016-532
+ 1- 5-16
+Include
+50
+2016-552
+ 3- 1-16
+Include
+50
+2016-555
+ 3-15-16
+Include
+50
+2016-561
+ 3-21-16
+Omit
+50
+2016-562
+ 3-21-16
+Include
+50
+2016-563
+ 3-21-16
+Include
+50
+2016-565
+ 3-21-16
+Include
+50
+2016-566
+ 3-21-16
+Include
+50
+2016-567
+ 3-21-16
+Include
+50
 Supp. No. 51
-2016-594 
- 6- 7-16 
-Include 
-51 
-2016-595 
- 6- 7-16 
-Include 
-51 
-2016-604 
- 6-20-16 
-Include 
-51 
-2016-606 
- 6-20-16 
-Include 
-51 
-2016-607 
- 6-21-16 
-Include 
-51 
-2016-612 
- 6-21-16 
-Include 
-51 
-2016-613 
- 6-21-16 
-Include 
-51 
+2016-594
+ 6- 7-16
+Include
+51
+2016-595
+ 6- 7-16
+Include
+51
+2016-604
+ 6-20-16
+Include
+51
+2016-606
+ 6-20-16
+Include
+51
+2016-607
+ 6-21-16
+Include
+51
+2016-612
+ 6-21-16
+Include
+51
+2016-613
+ 6-21-16
+Include
+51
 Supp. No. 52
-2017-662 
- 1-17-17 
-Include 
-52 
-2017-663 
- 1-17-17 
-Include 
-52 
-2017-665 
- 2- 7-17 
-Include 
-52 
-2017-680 
- 3-15-17 
-Omit 
-52 
-2017-682 
- 3-15-17 
-Include 
-52 
-2017-683 
- 3-15-17 
-Include 
-52 
-2017-684 
- 3-15-17 
-Include 
-52 
-2017-685 
- 3-15-17 
-Include 
-52 
-2017-686 
- 3-15-17 
-Include 
-52 
-2017-687 
- 3-15-17 
-Include 
-52 
-2017-688 
- 3-21-17 
-Include 
-52 
-2017-697 
- 4-18-17 
-Include 
-52 
+2017-662
+ 1-17-17
+Include
+52
+2017-663
+ 1-17-17
+Include
+52
+2017-665
+ 2- 7-17
+Include
+52
+2017-680
+ 3-15-17
+Omit
+52
+2017-682
+ 3-15-17
+Include
+52
+2017-683
+ 3-15-17
+Include
+52
+2017-684
+ 3-15-17
+Include
+52
+2017-685
+ 3-15-17
+Include
+52
+2017-686
+ 3-15-17
+Include
+52
+2017-687
+ 3-15-17
+Include
+52
+2017-688
+ 3-21-17
+Include
+52
+2017-697
+ 4-18-17
+Include
+52
 Supp. No. 53
-2017-725 
- 7- 5-17 
-Include 
-53 
-2017-735 
- 9- 5-17 
-Include 
-53 
+2017-725
+ 7- 5-17
+Include
+53
+2017-735
+ 9- 5-17
+Include
+53
 Supp. No. 54
-2018-817 
- 4-17-18 
-Include 
-54 
-2018-823 
- 5- 1-18 
-Include 
-54 
-2018-835 
- 6- 5-18 
-Include 
-54 
-2018-841 
- 6-11-18 
-Include 
-54 
-2018-842 
- 6-11-18 
-Include 
-54 
-2018-843 
- 6-11-18 
-Include 
-54 
-2018-844 
- 6-11-18 
-Include 
-54 
-2018-845 
- 6-11-18 
-Include 
-54 
-2018-846 
- 6-11-18 
-Include 
-54 
-2018-850 
- 6-11-18 
-Include 
-54 
-2018-857 
- 6-19-18 
-Include 
-54 
+2018-817
+ 4-17-18
+Include
+54
+2018-823
+ 5- 1-18
+Include
+54
+2018-835
+ 6- 5-18
+Include
+54
+2018-841
+ 6-11-18
+Include
+54
+2018-842
+ 6-11-18
+Include
+54
+2018-843
+ 6-11-18
+Include
+54
+2018-844
+ 6-11-18
+Include
+54
+2018-845
+ 6-11-18
+Include
+54
+2018-846
+ 6-11-18
+Include
+54
+2018-850
+ 6-11-18
+Include
+54
+2018-857
+ 6-19-18
+Include
+54
 Supp. No. 55
-2018-874 
- 9-18-18 
-Include 
-55 
-2018-881 
-10- 2-18 
-Include 
-55 
-2018-886-ZC-770 
-10-16-18 
-Omit 
-55 
-2018-895 
-11-20-18 
-Include 
-55 
-2019-911 
- 1- 8-19 
-Include 
-55 
+2018-874
+ 9-18-18
+Include
+55
+2018-881
+10- 2-18
+Include
+55
+2018-886-ZC-770
+10-16-18
+Omit
+55
+2018-895
+11-20-18
+Include
+55
+2019-911
+ 1- 8-19
+Include
+55
 Supp. No. 56
-2019-923 
- 3- 5-19 
-Include 
-56 
-2019-938 
- 4-16-19 
-Include 
-56 
-2019-949 
- 6- 4-19 
-Include 
-56 
-2019-959 
- 6-10-19 
-Omit 
-56 
-2019-960 
- 6-10-19 
-Include 
-56 
-2019-961 
- 6-10-19 
-Include 
-56 
-2019-962 
- 6-10-19 
-Include 
-56 
-2019-963 
- 6-10-19 
-Include 
-56 
-2019-964 
- 6-10-19 
-Include 
-56 
-2019-966 
- 6-10-19 
-Include 
-56 
-2019-967 
- 6-10-19 
-Include 
-56 
-2019-968 
- 6-10-19 
-Include 
-56 
-2019-970 
- 6-18-19 
-Include 
-56 
+2019-923
+ 3- 5-19
+Include
+56
+2019-938
+ 4-16-19
+Include
+56
+2019-949
+ 6- 4-19
+Include
+56
+2019-959
+ 6-10-19
+Omit
+56
+2019-960
+ 6-10-19
+Include
+56
+2019-961
+ 6-10-19
+Include
+56
+2019-962
+ 6-10-19
+Include
+56
+2019-963
+ 6-10-19
+Include
+56
+2019-964
+ 6-10-19
+Include
+56
+2019-966
+ 6-10-19
+Include
+56
+2019-967
+ 6-10-19
+Include
+56
+2019-968
+ 6-10-19
+Include
+56
+2019-970
+ 6-18-19
+Include
+56
 Supp. No. 57
-2019-20 
-11-19-19 
-Include 
-57 
-2019-24 
-11-19-19 
-Include 
-57 
-2019-25 
-11-19-19 
-Include 
-57 
-2019-35 
-12- 3-19 
-Include 
-57 
+2019-20
+11-19-19
+Include
+57
+2019-24
+11-19-19
+Include
+57
+2019-25
+11-19-19
+Include
+57
+2019-35
+12- 3-19
+Include
+57
 Supp. No. 58
-2020-17 
- 3-17-20 
-Include 
-58 
-2020-57 
- 2-18-20 
-Include 
-58 
-2020-64 
- 3- 3-20 
-Include 
-58 
-2020-76 
- 4- 7-20 
-Include 
-58 
-2020-78 
- 4- 7-20 
-Omit 
-58 
-2020-96 
- 7- 1-20 
-Include 
-58 
-2020-101 
- 6-15-20 
-Include 
-58 
-2020-123 
- 8-18-20 
-Include 
-58 
+2020-17
+ 3-17-20
+Include
+58
+2020-57
+ 2-18-20
+Include
+58
+2020-64
+ 3- 3-20
+Include
+58
+2020-76
+ 4- 7-20
+Include
+58
+2020-78
+ 4- 7-20
+Omit
+58
+2020-96
+ 7- 1-20
+Include
+58
+2020-101
+ 6-15-20
+Include
+58
+2020-123
+ 8-18-20
+Include
+58
 Supp. No. 59
-2020-114 
- 7- 7-20 
-Include 
-59 
-2020-134 
-10- 6-20 
-Include 
-59 
-2020-166 
-12- 1-20 
-Include 
-59 
-2020-167 
-12- 1-20 
-Include 
-59 
-2021-175 
- 1- 5-21 
-Include 
-59 
-2021-189 
- 2- 2-21 
-Include 
-59 
+2020-114
+ 7- 7-20
+Include
+59
+2020-134
+10- 6-20
+Include
+59
+2020-166
+12- 1-20
+Include
+59
+2020-167
+12- 1-20
+Include
+59
+2021-175
+ 1- 5-21
+Include
+59
+2021-189
+ 2- 2-21
+Include
+59
 Supp. No. 60
-2021-204 
- 3- 2-21 
-Include 
-60 
-2021-208 
- 3-16-21 
-Include 
-60 
-2021-221 
- 4-20-21 
-Include 
-60 
-2021-258 
- 7- 6-21 
-Include 
-60 
-2021-262 
- 7- 6-21 
-Include 
-60 
+2021-204
+ 3- 2-21
+Include
+60
+2021-208
+ 3-16-21
+Include
+60
+2021-221
+ 4-20-21
+Include
+60
+2021-258
+ 7- 6-21
+Include
+60
+2021-262
+ 7- 6-21
+Include
+60
 Supp. No. 61
-2021-266 
- 8-18-21 
-Include 
-61 
-2021-272 
- 9- 7-21 
-Include 
-61 
-2021-287 
-10- 5-21 
-Include 
-61 
-2021-305 
-11-16-21 
-Include 
-61 
+2021-266
+ 8-18-21
+Include
+61
+2021-272
+ 9- 7-21
+Include
+61
+2021-287
+10- 5-21
+Include
+61
+2021-305
+11-16-21
+Include
+61
 Supp. No. 62
-2022-321 
- 1-18-22 
-Include 
-62 
-2022-332 
- 2- 1-22 
-Include 
-62 
-2022-339 
- 2-15-22 
-Include 
-62 
-2022-340 
- 2-15-22 
-Include 
-62 
-2022-346 
- 3-15-22 
-Include 
-62 
-2022-359 
- 4-19-22 
-Include 
-62 
+2022-321
+ 1-18-22
+Include
+62
+2022-332
+ 2- 1-22
+Include
+62
+2022-339
+ 2-15-22
+Include
+62
+2022-340
+ 2-15-22
+Include
+62
+2022-346
+ 3-15-22
+Include
+62
+2022-359
+ 4-19-22
+Include
+62
 Supp. No. 63
-1985-665 
-11- 5-85 
-Include 
-63 
-2022-364 
- 5-17-22 
-Include 
-63 
-2022-387 
- 6-13-22 
-Include 
-63 
-2022-395 
- 7- 5-22 
-Include 
-63 
-2022-398 
- 7- 5-22 
-Include 
-63 
-2022-399 
- 7- 5-22 
-Include 
-63 
-2022-401 
- 8-16-22 
-Include 
-63 
+1985-665
+11- 5-85
+Include
+63
+2022-364
+ 5-17-22
+Include
+63
+2022-387
+ 6-13-22
+Include
+63
+2022-395
+ 7- 5-22
+Include
+63
+2022-398
+ 7- 5-22
+Include
+63
+2022-399
+ 7- 5-22
+Include
+63
+2022-401
+ 8-16-22
+Include
+63
 Supp. No. 64
-2022-429 
-10-18-22 
-Include 
-64 
-2022-441 
-11-15-22 
-Include 
-64 
-2023-474 
- 3- 7-23 
-Include 
-64 
+2022-429
+10-18-22
+Include
+64
+2022-441
+11-15-22
+Include
+64
+2023-474
+ 3- 7-23
+Include
+64
 Supp. No. 65
-(2023) 490 
- 4- 4-23 
-Include 
-65 
-(2023) 514 
- 6- 6-23 
-Include 
-65 
-(2023) 524 
- 6-12-23 
-Include 
-65 
-(2023) 525 
- 6-20-23 
-Include 
-65 
-(2023) 532 
- 7- 5-23 
-Include 
-65 
-(2023) 535 
- 7- 5-23 
-Include 
-65 
+(2023) 490
+ 4- 4-23
+Include
+65
+(2023) 514
+ 6- 6-23
+Include
+65
+(2023) 524
+ 6-12-23
+Include
+65
+(2023) 525
+ 6-20-23
+Include
+65
+(2023) 532
+ 7- 5-23
+Include
+65
+(2023) 535
+ 7- 5-23
+Include
+65
 
-DIVISION I 
-CHARTER1
+DIVISION I
+CHARTER
 ARTICLE I. IN GENERAL
 Sec. 1.1 SHORT TITLE.
 This Act shall be known as and may be cited as "The Charter of the City of Raleigh." 
@@ -1488,7 +1488,7 @@ Sec. 3.9 REGULATION OF PRIVATE TRANSACTIONS BETWEEN CITY AND ITS OFFICIALS AND 
 (S.L. 1991, Ch. 312, §1)
 Amendment note: 1991 Session Laws, Ch. 312, §3, amended §33 of Ch. 1184 Session Laws 1949 by designating the existing text subsection (a) and adding subsection (b). 
 Cross reference: Police officer purchase of revolver, 1981 Session Laws, Ch. 255. 
-ARTICLE IV. ELECTIONS2
+ARTICLE IV. ELECTIONS
 Sec. 4.1 CONDUCT OF ELECTIONS.
 (a)	All nominations, primary elections, general elections and special elections in the City shall be held, conducted, supervised and governed by and pursuant to the provisions of Chapter 163, Elections and Election Laws, and Subchapter IX thereof, Municipal Elections, of the General Statutes of North Carolina, with the exception of G.S. 163-303, relating to the nonapplicability of campaign expense regulation in nonpartisan elections and except as otherwise provided by this act. 
 (b)	All nominations and elections in the City shall be subject to the provisions of Chapter 163, Elections and Election Laws, and Subchapter VIII thereof, Criminal Offenses, including, but not being limited to, the sections of the General Statutes numbered G.S. 163-259 through G.S. 163-278. 
@@ -2681,9 +2681,9 @@ Swift County Management Plan
 
 PART 1 GENERAL GOVERNMENT
 CHAPTER 1. MAYOR AND COUNCIL
-ARTICLE A. THE MAYOR3
+ARTICLE A. THE MAYOR
 Secs. 1-1001 — 1-1010. RESERVED.
-ARTICLE B. THE COUNCIL4
+ARTICLE B. THE COUNCIL
 Sec. 1-1011. COUNCIL ELECTORAL DISTRICTS.
 (a)	The corporate limits of the City and the limits of the five (5) electoral districts of the City, designated as districts A, B, C, D, and E are and shall be those shown on a map, the preparation of which was authorized by the City Council at its regular meeting held on May 7, 1973. The precise metes and bounds descriptions of the elements of the corporate limits shall be those prescribed by the annexation ordinances relating to those elements, respectively. The specific metes and bounds descriptions of the districts' boundaries shall be those prescribed in official actions of the County Board of Elections establishing the boundary lines of precincts upon which the district boundaries are superimposed and with which they are coincident. Such map shall be labeled and referred to as follows: "Corporate Limits and Electoral District Limits—Number 1—May 7, 1973." 
 (b)	The map of the corporate limits and electoral districts of the Cityshall be the official map of such and shall so continue until officially revised by the Planning Director and Chief Engineer pursuant to appropriate action of the Council. The map and all revisions thereof shall be kept on file by the City Clerk for public inspection. 
@@ -2835,8 +2835,8 @@ During the existence of a proclaimed state of emergency, it shall be unlawful fo
 Each January after the biannual elections for City Council members, the City Council shall establish a list of Council members designated to act in the Mayor's stead during emergency situations when the Mayor is unavailable. The list shall be by priority with the person available and nearest the top of the list designated to act for the Mayor. If the Mayor becomes available during the pendency of an emergency situation, the person acting in his stead shall relinquish the authority granted by §1-1051 to the Mayor. 
 (Code 1959, §2-65; Ord. No. 1982-860, §2, 3-9-82; Ord. No. 1986-736, §2, 2-18-86; Ord. No. 2016-532, §2, 1-5-16 )
 State law reference: Authority of the Mayor to impose restrictions during states of emergency, G.S. 14-288.12. 
-CHAPTER 2. ADMINISTRATIVE OFFICES5
-ARTICLE A. CITY MANAGER6
+CHAPTER 2. ADMINISTRATIVE OFFICES
+ARTICLE A. CITY MANAGER
 Secs. 1-2001 — 1-2010. RESERVED.
 ARTICLE B. CITY ATTORNEY
 Sec. 1-2011. DUTIES AND RESPONSIBILITIES.
@@ -2862,7 +2862,7 @@ The City Clerk shall serve as Clerk of the Council, and it shall be the Clerk's 
 (Ord. No. 2003-516, §1, 9-16-03)
 Charter reference: Appointment, duties, §§5.2, 5.3. 
 State law references: Duties of the City Clerk, G.S. 160A-71; deputy Clerks, G.S. 160A-172. 
-CHAPTER 3. DEPARTMENTAL ORGANIZATION7
+CHAPTER 3. DEPARTMENTAL ORGANIZATION
 Sec. 1-3001. ORGANIZATION OF CITY GOVERNMENT.
 The City Manager will from time to time prepare an organization chart establishing the various departments and offices necessary to efficiently operate City government. No such plan will be effective until approved by the City Council in a regular meeting. Nothing herein shall prohibit the City Council from modifying any approved organizational structure at any time the Council feels that the improvement would lead to greater governmental efficiency. The functions and duties of City departments and offices shall be as specified in this Code or as otherwise provided by law. 
 (Ord. No. 2014-289, §3, 4-15-14)
@@ -2957,7 +2957,7 @@ The Revenue Collector shall charge a processing fee in the maximum amount allowe
 (Code 1959, §2-26.1; Ord. No. 1979-45, 3-20-79; Ord. No. 1991-709, §1, 1-2-91)
 State law reference: Collection of processing fee for returned checks and procedural requirements, G.S. 25-3-512. 
 Secs. 2-2002 — 2-2010. RESERVED.
-ARTICLE B. PRIVILEGE LICENSE TAXES8
+ARTICLE B. PRIVILEGE LICENSE TAXES
 Sec. 2-2011. DEFINITIONS.
 The following words, whenever they are used in this article, shall be deemed to have the following meanings: 
 (a)Business.
@@ -3084,7 +3084,7 @@ Sec. 2-2062. ANIMAL CONTROL; FINES AND SUMMONSES.
 The violations division shall be responsible for the administration and collection of fines and issuance of any applicable summonses under the City's animal control ordinances. 
 Cross reference: Animals, Part 12, Ch. 3, Arts. A, B. 
 Secs. 2-2063—2-2070. RESERVED.
-ARTICLE E. MOTOR VEHICLES REGISTRATION9
+ARTICLE E. MOTOR VEHICLES REGISTRATION
 Sec. 2-2071. MOTOR VEHICLE LICENSE REQUIRED.
 Every self-propelled motor vehicle sited for ad valorem tax purposes in the City of Raleigh shall pay an annual fee of thirty dollars ($30.00) to the City of Raleigh for the privilege of operating said vehicle on the public ways. The annual payment shall be collected by the Wake County Tax Collector and the tax shall authorize the use of the vehicle for one (1) year from the date of the payment due date of the tax. 
 (Ord. No. 1988-240, §2, 9-6-88; Ord. No. 1991-806, §1, 6-28-91; Ord. No. 1993-291, §1, 12-7-93; Ord. No. 2006-81, §1, 9-5-06; Ord. No. 2007-281, §1, 8-7-07; Ord. No. 2010-752, §1, 6-28-10; Ord. No. 2010-774, §1, 9-7-10)
@@ -3230,11 +3230,11 @@ Sec. 3-2003. COPY TO BE DEEMED ORIGINAL.
 When the classification and salary schedule has been adopted and approved in the manner herein provided, each copy of such schedule shall for all purposes be deemed to be an original. 
 Editor's note: Revisions to the classification and/or pay plan may be made with Council approval and incorporated into the plan. 
 CHAPTER 3. EMPLOYEE BENEFITS
-ARTICLE A. SOCIAL SECURITY13
+ARTICLE A. SOCIAL SECURITY
 (RESERVED) 
-ARTICLE B. RETIREMENT14
+ARTICLE B. RETIREMENT
 (RESERVED) 
-PART 4 COMMUNITY SERVICES15
+PART 4 COMMUNITY SERVICES
 CHAPTER 1. THE DEPARTMENT OF COMMUNITY SERVICES
 ARTICLE A. GENERAL PROVISIONS
 Sec. 4-1001. DIRECTOR, OFFICERS AND EMPLOYEES.
@@ -4223,7 +4223,7 @@ Sec. 6-5002. INTERSECTION AND ROADWAY IMPROVEMENT AGREEMENTS.
 (2)	The coordination of separately constructed public intersection or roadway improvements and the adjacent or ancillary private land development improvements would be impracticable. 
 (e)	Notwithstanding subsection (b) above, City Council authorization must be provided for the City to enter into any reimbursement agreement under this section if the total estimated costs of the proposed project exceed the delegation of authority to the City Manager in Section 2-4003 of the City Code. 
 ( Ord. No. 2022-429 , §3, 10-18-22)
-PART 7 SOLID WASTE SERVICES20
+PART 7 SOLID WASTE SERVICES
 CHAPTER 1. THE DEPARTMENT OF SOLID WASTE SERVICES
 Sec. 7-1001. DIRECTOR, OFFICERS AND EMPLOYEES.
 The Department of Solid Waste Services shall consist of a Director of Solid Waste Services, who shall be its administrative head, and such other officers and employees as deemed necessary by the Manager and City Council and whose salaries shall be fixed by the City Council.
@@ -9809,7 +9809,7 @@ Bullet hole. Any indentation or penetration of an automobile body or windshield 
 Sec. 12-8001. AUTOMOBILE REPAIR REPORTING REQUIREMENTS.
 The owner or operator of any automobile repair facility shall report to the Raleigh Police Department any motor vehicle brought to their business for repair or repair estimates if the motor vehicle appears to have bullet holes in the body or windshield or any other part of the motor vehicle that the owner or operator may have cause to examine. The information shall be reported on a form to be provided to the repair facility by the City of Raleigh. The form may be delivered by hand or electronically transmitted to the City so long as the delivery is completed as soon as possible but no later than the close of business on the day on which the car is first examined by the owner or operator. The form shall contain at a minimum the name, if known, of the registered owner of the vehicle; the name of the person presenting the vehicle for repair; the address of the owner or other person presenting the vehicle for repair and a description of the size, number and location of the suspected bullet holes. Any violation of this chapter is a misdemeanor. 
 (Ord. No. 2005-838, §1, 5-17-05)
-PART 13 OFFENSES52
+PART 13 OFFENSES
 CHAPTER 1. OFFENSES AGAINST PROPERTY
 Sec. 13-1001. SIGNBOARDS, POSTS, UTILITY FIXTURES.
 It shall be unlawful for any person to injure or deface any signboard, signpost, gas fixture, or gas pipe, water fixtures, or water pipe, lamp or lamppost, or any other property of the City. 
