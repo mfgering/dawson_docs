@@ -3127,7 +3127,7 @@ Sec. 2-2087. ALLOCATION OF NET PROCEEDS COLLECTED.
 The City Manager shall allocate and distribute the net proceeds collected by the tax as mandated by Chapter 850 of the Session Laws of 1985 and as provided in the budget approved by the City Council. 
 (Ord. No. 1986-825A, §1, 7-15-86)
 Secs. 2-2088—2-2089. RESERVED.
-DIVISION 2. CONVENTION AND VISITORS BUREAU10
+DIVISION 2. CONVENTION AND VISITORS BUREAU
 Sec. 2-2090. CREATED.
 There is hereby created the Greater Raleigh Convention and Visitors Bureau; of such composition and having such powers and duties herein provided. 
 (Ord. No. 1992-904, §2, 1-7-92)
@@ -3150,7 +3150,7 @@ The Bureau is to promote travel to and tourism in the City and County. To fulfil
 Sec. 2-2094. STAFF.
 The Bureau shall employ such staff as it deems necessary to carry out its duties and responsibilities and in accord with its approved budget. Employees of the Bureau shall not be considered as employees of the City for any purposes whatsoever. 
 (Ord. No. 1992-904, §6, 1-7-92)
-CHAPTER 3. CONSUMER SERVICES11
+CHAPTER 3. CONSUMER SERVICES
 Sec. 2-3001. RATE SCHEDULES FOR UTILITY SERVICES.
 (a)Established.
 The schedule of rates, fees, charges, deposits, penalties, and rents for water, reuse water, and sewer service, repairs, maintenance, operations and debt service requirements shall be as set forth in the Raleigh Water Fee Schedule. Such rates, fees, charges, deposits, penalties, and rents shall be collected from the users of the service and shall be due and payable monthly in accordance with law within twenty (20) days from the date such rates, fees, charges, deposits, penalties, and rents are billed to the respective users. 
@@ -3200,7 +3200,7 @@ City contracts for construction or repair work not subject to formal bidding req
 Sec. 2-4004. EXECUTION OF CITY CONTRACTS.
 All contracts entered into by the Citymay be signed by the Mayor; in his absence, the Mayor pro tem; and, in addition, by the City Manager or his written designee, who is hereby delegated such authority to execute contracts on behalf of the City, unless otherwise provided by law. 
 (Ord. No. 1986-740, §2, 3-4-86; Ord. No. 2001-88, §1, 8-7-01)
-CHAPTER 5. AUDITING AND ACCOUNTING12
+CHAPTER 5. AUDITING AND ACCOUNTING
 (RESERVED) 
 PART 3 PERSONNEL
 CHAPTER 1. PERSONNEL DEPARTMENT
@@ -3378,7 +3378,7 @@ It shall be an unlawful practice for a person, or for two (2) or more persons to
 (c)	To obstruct or prevent a person from complying with the provisions of this chapter or any order issued thereunder. 
 (d)	To resist, prevent, impede or interfere with the enforcing agent(s), hearing board or any of its members or representatives, in the lawful performance of duty under this chapter. 
 (Code 1959, §26-12)
-CHAPTER 3. HUMAN RELATIONS COMMISSION16
+CHAPTER 3. HUMAN RELATIONS COMMISSION
 Sec. 4-3001. ESTABLISHMENT.
 The Human Relations Commission is established. 
 (Ord. No. 1977-474, §1, 3-15-77; Ord. No. 1988-169, §1, 5-3-88; Ord. No. 2004-591, §1, 4-6-04)
@@ -3480,7 +3480,7 @@ It shall be unlawful for any person to turn in or aid or abet in turning in any 
 (Code 1959, §10-12)
 State law reference: Giving false fire alarms, G.S. 14-286. 
 Secs. 5-2014 — 5-2030. RESERVED.
-ARTICLE B. FIRE PREVENTION17
+ARTICLE B. FIRE PREVENTION
 Sec. 5-2031. TITLE AND INTENT.
 These regulations in Article B shall be known as the "Fire Prevention and Protection Ordinance of City of Raleigh, North Carolina," and may be cited as such and referenced to herein as the Fire Prevention and Protection Ordinance. References to the Fire Prevention Code herein shall mean the North Carolina State Fire Code as adopted by the North Carolina Building Code Council. 
 It is the intent of the Fire Prevention Code and this Code to prescribe regulations consistent with nationally recognized good practice for the safeguarding of life and property from the hazards of fire and explosion within the jurisdiction of the City of Raleigh. The Fire Prevention Code and this Fire Prevention and Protection Ordinance shall not be construed to hold the City responsible for any damage to persons or property by reason of the inspection or re-inspection authorized herein, failure to inspect or re-inspect or the permits issued or denied as herein provided, or by reason of the approval or disapproval of any equipment authorized herein. In the event of conflict, the more restrictive provisions of the Fire Prevention Codeshall prevail over the provisions of the Fire Prevention and Protection Ordinance. 
@@ -3895,7 +3895,7 @@ The Stormwater Management Advisory Commission shall have the following charge an
 The Stormwater Management Advisory Commission is directed to adopt rules of procedure necessary to the conduct of its affairs and in keeping with the provision of this Code, all policies of the City Council, and applicable State laws. Such rules of procedure, and any modifications to same, shall be submitted to the City Council for review and approval. Except as provided in this Code, the rules of procedure adopted by the Commission shall at least provide for: selection of the officers of the Commission; the time and place of its regular meetings, which shall at least be held bi-annually, and the calling of special meetings; the procedures of the conduct of public hearings and voting. The Commission shall elect from its membership at least a chairperson and vice chairperson, who shall serve for terms of one (1) year, who shall be eligible for reelection, and who shall have the right to vote. The chairperson shall preside over the Stormwater Management Advisory Commission. In the absence or disability of the chairperson, the vice-chairperson shall perform the duties of the chairperson. All meetings of the Stormwater Management Advisory Commission shall be open to the public, in accordance with the North Carolina Open Meetings Law, G.S. 143-318.10 et seq., and a public record shall be kept of the Commission's resolutions, proceedings, and actions. The rules of procedure and minutes of the Commission are maintained as separate documents in the nature of a public record at the City Clerk's Office. The Central Engineering Department shall provide such technical, administrative, and clerical assistance as required by the Commission. 
 (Ord. No. 2003-537, §2, 11-5-03; Ord. No. 2019-35 , §§1, 3, 12-3-19)
 Editor's note(s)—Ord. No. 2019-35 , §1, adopted December 3, 2019, renumbered § 6-6011 as § 6-1011. 
-CHAPTER 2. STREET AND SIDEWALK IMPROVEMENTS18
+CHAPTER 2. STREET AND SIDEWALK IMPROVEMENTS
 ARTICLE A. PROCEDURE
 Sec. 6-2001. STATEMENT OF AUTHORITY.
 The procedure of improving any street or sidewalk financed by special assessments shall follow that prescribed in Article 10 of Chapter 160A of the General Statutes as amended and all applicable local acts enacted by the General Assembly. Street and sidewalk improvements may be initiated by the City Council or by a statutory petition of propertyowners. 
@@ -4207,7 +4207,7 @@ Sec. 6-4009. LIMITATIONS OF RESPONSIBILITY.
 (a)	The City shall be responsible only for the portions of the drainage system which are in City maintained street rights-of-way and permanent storm drainage easements conveyed to and accepted by the City. Repairs and improvements to the drainage system shall be in accordance with established standards, policies, and schedules. 
 (b)	The City's acquisition of permanent storm drainage easements and/or the construction or repair by the City of stormwater control measures and drainage facilities does not constitute a warranty against stormwater hazards, including, but not limited to, flooding, erosion, or standing water. 
 (Ord. No. 2003-537, §3, 11-5-03)
-CHAPTER 5. REIMBURSEMENT AGREEMENTS19
+CHAPTER 5. REIMBURSEMENT AGREEMENTS
 Sec. 6-5001. INFRASTRUCTURE REIMBURSEMENT AGREEMENTS.
 (a)	This section authorizes and sets forth the procedures and terms under which the City may negotiate and approve reimbursement agreements with private developers and property owners for the design and construction of municipal infrastructure that is included on the City's capital improvement plan and serves the developer or property owner. For the purpose of this section, the term "municipal infrastructure" includes, without limitation, water mains, sanitary sewer lines, lift stations, stormwater lines, streets, curb and gutter, sidewalks, traffic control devices, and other associated facilities. 
 (b)	The City Manager, or their designee, is authorized to negotiate, approve, and execute municipal infrastructure reimbursement agreements with private developers and property owners pursuant to this section. Notwithstanding the above, City Council authorization must be provided for the City to enter into any reimbursement agreement under this section if the total estimated costs of the proposed project (including amounts paid by parties other than the City) exceed the delegation of authority to the City Manager in Section 2-4003 of the City Code. 
@@ -4242,7 +4242,7 @@ The functions and duties of the Department of Solid Wastes Services shall includ
 (Ord. No. 1998-454, §9, 11-4-98; Ord. No. 2022-398 , § 1, 7-5-22)
 Charter reference: Department of Public Works, §§6.16—6.18. 
 State law references: Establishment and control of streets, G.S. 160A-196 et seq. ; solid waste collection and disposal, G.S. 160A-311(6), G.S. 160A-02. 
-CHAPTER 2. SOLID WASTE COLLECTION21
+CHAPTER 2. SOLID WASTE COLLECTION
 ARTICLE A. GENERAL PROVISIONS
 Sec. 7-2001. DEFINITIONS.
 As used in this chapter, the following terms shall have the meanings ascribed to them, respectively. 
@@ -4652,7 +4652,7 @@ The current North Carolina Plumbing Code requires that where plumbing fixtures a
 (Ord. No. 2014-337, §7, 9-2-14, eff. 9-7-14)
 Secs. 8-2018 — 8-2030. RESERVED.
 ARTICLE B. WATER AND SEWER EXTENSION POLICIES
-DIVISION 1. PUBLIC EXTENSIONS OF THE UTILITY SYSTEM22
+DIVISION 1. PUBLIC EXTENSIONS OF THE UTILITY SYSTEM
 Sec. 8-2031. ASSESSMENT FOR EXTENSIONS AND REPLACEMENTS.
 Except for water and sewer main extensions and replacements which are funded exclusively from community development funds and are located within redevelopment areas as delineated pursuant to Article 22 of Chapter 160A of the General Statutes of North Carolina, as amended, water and sewer main extensions and replacements will be made by assessment of the cost thereof against property owners to be benefitted thereby in conformity with Article 10 of Chapter 160A of the General Statutes of North Carolina, as amended, and, if applicable, Raleigh City Charter, as amended, or both. The Raleigh Public Works Department shall determine which method of assessment authorized by G.S. 160A-218, as amended, would be most equitable to be used in an assessment roll, but any interested property owner may appeal from such determination to the Council. 
 (Code 1959, §23-9(1); Ord. No. 1977-586, §1, 7-19-77; Ord. No. 1983-200, §1, 10-4-83; Ord. No. 1984-338, §4, 4-17-84; Ord. No. 1985-543, §14, 4-16-85; Ord. No. 2014-262, §18, 1-21-14, eff. 1-26-14)
@@ -4708,7 +4708,7 @@ Editor's note(s)—Prior to its re-enactment, §8-2041 was reserved, as its prov
 Secs. 8-2042 — 8-2045. RESERVED.
 Editor's note: Section 8-2042 is now §8-2077. §8-2043 (deriving from a resolution of Feb. 4, 1974) was repealed by §22 of Ord. No. 1985-543, becoming part of §8-2063. §23 of Ord. No. 1985-543 repealed §§8-2044 and 8-2045, concerning sewer extensions to serve annexed areas where intervening properties are traversed, derived from Code 1959, §23-9.1, and concerning procedure for connections derived from the following resolutions: 1961-223, §4; 404 of June 1, 1964; 976 of Dec. 21, 1970; 659 of Nov. 6, 1972; and 773 of March 2, 1973. 
 Secs. 8-2046 — 8-2060. RESERVED.
-DIVISION 2. PRIVATE EXTENSIONS OF UTILITY SYSTEM23
+DIVISION 2. PRIVATE EXTENSIONS OF UTILITY SYSTEM
 Sec. 8-2061. APPLICATION.
 Any person owning or proposing to construct any private utility line or system inside or outside the corporate limits of the City which it is desired to have connected with the public utility lines and systems of the City shall make written application for permission to make such connections, upon forms furnished by the Raleigh Director of Public Utilities or his designee. Applications will be received and acted upon in accordance with the provisions of this article. The application must contain a preliminary utility plan which shall be prepared by a professional engineer registered to practice in the State of North Carolina. The application must also be accompanied by a map made by a professional engineer or registered land surveyor authorized to practice in the State, which map shall show accurately the property to be served with water and/or sewer service, and, if within any real estate development or subdivision, the map shall show the property lines and subdivision of lots and the layout of streets therein. When the private utility lines or systems are to be laid and constructed within any subdivision, such subdivision and the map thereof showing the property lines and subdivision of lots and the layout of streets must have been duly approved in accordance with Chapter 3, Part 10 of this Code before the approval of any application for permission to make connections with the utility system of the City. Unless the Raleigh Director of Public Utilities or his designee has information that indicates that there is adequate existing sewer capacity to meet the needs of the property for which sewer service is sought, the application shall also include a downstream sewer capacity analysis that demonstrates that there is capacity along the tributary wastewater path from the property to the wastewater treatment plant. A main extension permit application fee and, if applicable, pump station permit fee as set forth in the Raleigh Water Fee Scheduleshall paid by the developer at the time engineering plans are submitted for review. 
 (Ord. No. 1985-543, §25, 4-16-85; Ord. No. 1986-778, §1, 5-6-86; Ord. No. 1991-781, §1, 5-21-91; Ord. No. 2002-196, §1, 5-7-02; Ord. No. 2014-262, §28, 1-21-14, eff. 1-26-14; Ord. No. 2020-96 , §13, 6-15-20, eff. 7-1-20)
@@ -4826,7 +4826,7 @@ The notice of the civil penalty assessment shall be issued in writing and shall 
 (Ord. No. 1986-775, §1, 4-15-86; Ord. No. 2006-100, §2, 9-19-06; Ord. No. 2014-262, §38, 1-21-14, eff. 1-26-14; Ord. No. 2014-337, §8, 9-2-14, eff. 9-7-14)
 State law reference: Criminal offenses, G.S. 14-4; G.S. 143-215.6(b). 
 Secs. 8-2079—8-2090. RESERVED.
-DIVISION 3. CAPITAL FACILITIES FEES AND REIMBURSEMENTS; UTILITY MAIN POLICY FOR MAJOR WATER AND SEWER MAINS24
+DIVISION 3. CAPITAL FACILITIES FEES AND REIMBURSEMENTS; UTILITY MAIN POLICY FOR MAJOR WATER AND SEWER MAINS
 Sec. 8-2091. UTILITY MAIN POLICY—MAJOR MAINS.
 It shall be the utility main policy of the City, subject to conditions and limitations set forth herein, to fully or partially reimburse developers who, at the request of the City, install major water and/or major sewer mains either inside or outside the corporate limits. 
 (Ord. No. 1984-338, §8, 4-17-84; Ord. No. 1984-470, §3, 12-18-84; Ord. No. 1985-543, §28, 4-16-85; Ord. No. 2013-179, §2, 4-16-13; Ord. No. 2013-197, §1, 6-18-13, eff. 7-1-13; Ord. No. 2015-396, §1, 2-16-15, eff. 2-21-15 ; Ord. No. 2019-938, §1, 4-16-19 )
@@ -4864,7 +4864,7 @@ Sec. 8-2096. REIMBURSEMENT PROCEDURES FOR REPLACEMENT OF EXISTING MAINS.
 (h)	Projects which were approved for construction prior to effective date of this ordinance but which have not yet been accepted for ownership by the City are eligible to apply for reimbursement under this §8-2096. 
 ( Ord. No. 2015-396, §3, 2-16-15, eff. 2-21-15 ; Ord. No. 2017-697, §1, 4-18-17, eff. 7-1-17 ; Ord. No. 2018-846, §1, 6-11-18, eff. 7-1-18 ; Ord. No. 2019-967, §1, 6-10-19, eff. 7-1-19 ; Ord. No. 2020-96 , §19, 6-15-20, eff. 7-1-20)
 Secs. 8-2097—8-2110. RESERVED.
-ARTICLE C. USE OF SANITARY SEWER SYSTEM25
+ARTICLE C. USE OF SANITARY SEWER SYSTEM
 DIVISION 1. GENERAL PROVISIONS
 Sec. 8-2111. PURPOSE AND POLICY.
 (a)	This article sets forth uniform requirements for direct and indirect contributors into the waste water collection and treatment system for the City of Raleigh, hereafter referred to as the City, and enables the City to comply with all applicable State and Federal laws, Federal regulations and State rules including 15A NCAC 02H Part .0900, the Clean Water Act (33 United States Code Section 1251 et seq. ) and the General Pretreatment Regulations (40 CFR, Part 403). 
@@ -5466,7 +5466,7 @@ b.	There were no feasible alternatives to the bypass, such as the use of auxilia
 c.	The user submitted notices as required under subsection (b) above. 
 (2)	The POTW Director may approve an anticipated bypass, after considering its adverse effects, if the POTW Director determines that it will meet the three (3) conditions listed in subsection (c)(1) above. 
 (Ord. No. 2011-981, §1, 12-6-11)
-ARTICLE D. WATER QUALITY PROTECTION26
+ARTICLE D. WATER QUALITY PROTECTION
 Sec. 8-2141. DEFINITIONS.
 As used in this article, the following terms shall have the meanings provided in this section unless the context clearly indicates otherwise. 
 Air-gap. A physical separation sufficient to prevent backflow between the free-flowing discharge end of the public water system and any other system. Physically defined as a distance equal to twice the diameter of the supply side pipe diameter but never less than one (1) inch. 
@@ -5579,7 +5579,7 @@ Sec. 8-2156. LIMITATION OF LIABILITY.
 The Cityshall not be held liable, for any cause, for failure to detect any containment assembly failing to operate adequately, or failure to identify any specific hazard, which may result in contamination of its public water supply, nor shall this article diminish the responsibility of any owner from whose property a contamination of the public water supply may originate. 
 ( Ord. No. 2015-397, §1, 2-16-15, eff. 2-21-15 )
 Secs. 8-2157—8-2160. RESERVED.
-ARTICLE E. WATER CONSERVATION PLAN27
+ARTICLE E. WATER CONSERVATION PLAN
 Sec. 8-2161. PURPOSE AND INTENT.
 It is the purpose and intent of this article to assure that available water resources are put to reasonable beneficial uses to avoid depletion of the City water supply during a water shortage and to ensure that demand does not exceed the City's capacity for water treatment and distribution. This article shall be liberally construed to implement such purpose and intent. 
 (Ord. No. 2007-235, §1, 5-15-07)
@@ -5734,7 +5734,7 @@ The Raleigh Water Shortage Response Plan, as may be amended from time to time, i
 (Ord. No. 2010-793, §5, 10-19-10)
 Editor's note(s)—Ord. No. 2010-793, §5, adopted Oct. 19, 2010, repealed the former §8-2178, and enacted a new §8-2178 as set out herein. The former §8-2178 pertained to golf courses and derived from Ord. No. 2010-688, §4, adopted Jan. 19, 2010. 
 Sec. 8-2179. RESERVED.
-ARTICLE F. REUSE WATER REGULATION28
+ARTICLE F. REUSE WATER REGULATION
 DIVISION 1. GENERAL PROVISIONS
 Sec. 8-2180. PURPOSE AND INTENT.
 This article sets forth the requirements for the Reuse Water System for the City of Raleigh, hereafter referred to as the City. The Reuse Water System provides an alternative water source for non-potable water demands. It is the City's policy to provide reuse water to the appropriate non-potable demands to limit the growth in potable water. 
@@ -5895,7 +5895,7 @@ Sec. 8-2243. TERMINATION OF SERVICE FOR MISUSE.
 If any person violates any provisions of this article or any regulation, standard, rule or order duly adopted in furtherance of this article, the City may terminate water, sewer, and/or reuse water service to that property. Within thirty (30) days following the termination of reuse water service, the reuse water permit holder mayin writing appeal the termination to the Raleigh Director of Public Utilities, who within fifteen (15) days of receipt of the appeal shall conduct a hearing. If service is terminated, the consumer shall bear the full responsibility of any costs or liabilities for reconnecting to the utilities. The City shall be indemnified by the violator or in the discretion of the City the permit user from all claims, damages, losses, or expenses, including Federal and State civil penalties imposed upon the City, caused by the failure to meet the requirements of the governing regulatory agencies concerning the use and operation of reuse water or from the termination of reuse water service. 
 (Ord. No. 2006-100, §1, 9-19-06; Ord. No. 2014-262, §51(1), 1-21-14, eff. 1-26-14)
 PART 9 PARKS, RECREATION AND CULTURAL AFFAIRS
-CHAPTER 1. GENERAL PROVISIONS29
+CHAPTER 1. GENERAL PROVISIONS
 ARTICLE A. THE DEPARTMENT OF PARKS AND RECREATION
 Sec. 9-1001. DIRECTOR, OFFICERS AND EMPLOYEES.
 The Parks, Recreation, and Cultural Resources Department shall consist of a director, who shall be its administrative head, and such other officers and employees as deemed necessary by the Manager and Council and whose salaries shall be fixed by the Council. 
@@ -5929,7 +5929,7 @@ The functions and duties of the Department of Parks and Recreation shall be to:
 (l)	Provide custodial service for the municipal building, the annex, and other Cityproperties determined by the City Manager; maintaining physical plant operations in the municipal building, the annex, and other Cityproperties determined by the City Manager; providing assistance for physical plant operations to City facilities such as fire stations, park and recreation buildings, water and sewer plants. 
 (Ord. No. 1998-454, §13, 11-4-98; Ord. No. 2019-970, §1, 6-18-19 )
 Secs. 9-1004 — 9-1010. RESERVED.
-ARTICLE B. PARKS, RECREATION AND GREENWAY ADVISORY BOARD30
+ARTICLE B. PARKS, RECREATION AND GREENWAY ADVISORY BOARD
 Sec. 9-1011. CREATED.
 There is hereby established a parks, recreation and greenway advisory board. 
 (Ord. No. 1985-595, §1, 6-18-85; Ord. No. 1985-665 , § 2, 11-5-85)
@@ -6136,7 +6136,7 @@ Sec. 9-3001. DIVISION OBJECTIVES.
 The recreation division of the Department of Parks and Recreation shall have as its objectives the planning, administering and supervising of a wide variety of recreation program opportunities and the fulfilling of the leisure needs of all ages and skill levels including programs for youth, the elderly, the mentally retarded, and the physically and visually handicapped. 
 The park ranger program shall also come under the jurisdiction of this division and shall be used for the creation and implementation of better public relations as well as the protection of park property and its users. 
 
-CHAPTER 4. CEMETERIES31
+CHAPTER 4. CEMETERIES
 Sec. 9-4001. SUPERINTENDENT; APPOINTMENT.
 There shall be appointed a superintendent to have charge of City cemeteries. 
 (Ord. No. 1991-736, §1, 2-19-91)
@@ -6304,7 +6304,7 @@ Sec. 9-5007. LAKE WHEELER.
 Editor's Note: The term "personal watercraft" used in this subsection is the same definition contained in G.S. 75A-13.3. 
 (Ord. No. 2001-928, §1, 1-16-01; Ord. No. 2003-538, §1, 11-5-03)
 Editor's note: By Resolution No. 1978-755, adopted Nov. 7, 1978, the City Council applied to the Wildlife Resources Commission for special rules and regulations "establishing No Wake Zones 50 yards from the end of the docks at the main boat ramp area of Lake Wheeler." Pursuant to G.S. 75A-15. 
-CHAPTER 6. CONVENTION CENTER COMPLEX32
+CHAPTER 6. CONVENTION CENTER COMPLEX
 Sec. 9-6001. RALEIGH CONVENTION AND PERFORMING ARTS CENTERS AUTHORITY'S POWERS; APPLICABILITY OF CHAPTER.
 (a)	The City Council hereby delegates to the Raleigh Convention and Performing Arts Centers Authority the power to establish rules and regulations concerning the conduct and operation of the complex, provided such rules and regulations are consistent with the scope of this chapter and the laws and policies of the City, the State, and the law of the United States. 
 (b)	In preparing and promulgating their regulations, the authority shall be bound by the following guidelines: 
@@ -6439,7 +6439,7 @@ Sec. 9-7008. EXCAVATION.
 (c)	Should the party responsible for the excavation return the disturbed area to its original condition, as determined by the City, the excavation fee shall be refunded. 
 (Ord. No. 1989-442, §2, 10-19-89)
 Secs. 9-7009 — 9-7020. RESERVED.
-ARTICLE B. PROHIBITED ACTIVITIES33
+ARTICLE B. PROHIBITED ACTIVITIES
 Sec. 9-7021. RESERVED.
 Editor's note: Ord. No. 2002-218, §1, adopted June 4, 2002, set out provisions repealing §9-7021, which pertained to animals and derived from Code 1959, §27-11; Ord. No. 1977-598, §1, adopted Aug. 16, 1977; and Ord. No. 1981-559, §2, adopted Jan. 6, 1981. 
 Sec. 9-7022. RESERVED.
@@ -6470,7 +6470,7 @@ If any clause, sentence, paragraph, subsection, section or any part of this chap
 Sec. 9-7030. PENALTIES.
 Any violation of this chapter shall be a misdemeanor, and punishable by law. Each day's continuance of such violation shall be a separate offense. 
 (Code 1959, §27-20; Ord. No. 1977-598, §1, 8-16-77; Ord. No. 1981-559, §2, 1-6-81)
-CHAPTER 8. TREES AND VEGETATION34
+CHAPTER 8. TREES AND VEGETATION
 Sec. 9-8001. PURPOSE AND INTENT.
 (a)	The purpose of this chapter and the City Tree Manual, which is hereby incorporated into this chapter by reference, is to regulate and control the planting of trees and vegetation, to encourage the protection of existing trees and vegetation on the streets and public and private grounds within the City, and to establish the standard arboricultural specifications and practices for existing and future trees and vegetation in the City and on City-owned property outside the corporate limits. 
 (b)	The City acknowledges that trees provide environmental, aesthetic, social and economic benefits. Specifically, trees increase property values, provide aesthetic value, provide shade and cooling, reduce energy costs, decrease wind velocities, provide erosion control, conserve energy, reduce stormwater runoff, act as filters for airborne pollutants, reduce noise, provide privacy, provide wildlife habitat and food value, sequester carbon and release oxygen. By enacting these regulations, it is the intent of the City to prudently protect and manage the urban forest to secure these benefits. 
@@ -6559,7 +6559,7 @@ Sec. 9-8010. TREE REPLACEMENT; FEE IN LIEU OF TREE REPLACEMENT.
 (c)	If any person is unable to replace a tree that such person destroyed, the person who destroyed the City treeshall pay a fee in lieu of replacement at the rate of one hundred dollars ($100.00) per inch of DBH. In the event the site is only able to accommodate a tree smaller than the City tree that was destroyed, the responsible party shall pay a fee in lieu equal to the DBH or caliper of the destroyed City tree measured in inches, minus the total DBH or caliper of the replaced tree(s) measured in inches multiplied by hundred dollars ($100.00). 
 (d)	A fee in lieu shall only be granted when the site does not accommodate required tree replacement and shall be granted at the discretion of the Urban Forester. 
 ( Ord. No. 2015-401, §1, 3-3-15, eff. 3-8-15 )
-CHAPTER 10. ARTS COMMISSION35
+CHAPTER 10. ARTS COMMISSION
 ARTICLE A. GENERAL PROVISIONS
 Sec. 9-10001. COMMISSION CREATED.
 There is hereby established, pursuant to Raleigh City Charter §22 [§2.14] a Raleigh Arts Commission, as the official municipal advisory body on the arts broadly defined, which will promote, coordinate and strengthen public programs to further the cultural development of the City. 
@@ -6826,7 +6826,7 @@ Sec. 11-2076. STOP WHEN TRAFFIC OBSTRUCTED.
 It shall be unlawful for a driver to enter any intersection or a marked crosswalk unless there is sufficient space on the other side of the intersection or crosswalk to accommodate the vehicle he is operating without obstructing the passage of other vehicles or pedestrians, notwithstanding any traffic-control signal indication to proceed. 
 (Code 1959, §21-43)
 Secs. 11-2077 — 11-2090. RESERVED.
-ARTICLE E. SPEED REGULATIONS36
+ARTICLE E. SPEED REGULATIONS
 Sec. 11-2091. GENERAL.
 Except as otherwise provided in this article, it shall be unlawful to operate a vehicle in excess of thirty-five (35) miles per hour inside the corporate limits. 
 Violation of this section is an infraction and may also be enforced through issuance of a civil penalty pursuant to §14-1005, through injunctive or other equitable relief, or a combination of remedies. 
@@ -7424,7 +7424,7 @@ Sec. 11-2245. VIOLATION AND NONCOMPLIANCE.
 (b)	In the event that any person, persons, firm or corporation continually fails to comply with the provisions of this article, such continuing failure to comply shall be grounds for the Transportation Department or the Transportation Director to refuse to issue such person, persons, firm or corporation a permit to work on the public right-of-way. 
 (c)	Site control superintendent, general contractors, or others responsible for subcontractors or their agents shall be held responsible for compliance with the provisions of this article. 
 (Code 1959, §19-44; Ord. No. 1994-393, §§11, 12, 5-3-94; Ord. No. 1998-454, §18, 11-4-98)
-CHAPTER 3. RALEIGH BICYCLE REGULATIONS37
+CHAPTER 3. RALEIGH BICYCLE REGULATIONS
 Sec. 11-3001. TITLE.
 [This chapter may be cited as the] Raleigh Bicycle Regulations. 
 (Ord. No. 2013-239, §3, 11-5-13)
@@ -7582,7 +7582,7 @@ Sec. 11-5012. PREEXISTING ACTIVITIES.
 Any person, business or entity operating a contractual motor bus service prior to enactment of this chapter shall not be required to comply with the provisions of this chapter in providing such contractual service during the term of the contract existing at the time of the enactment of this chapter. 
 (Ord. No. 1982-992, §1, 10-5-82; Ord. No. 1988-198, §1, 6-21-88)
 Note: See the editor's note to §11-5010. 
-CHAPTER 6. STREET MAINTENANCE38
+CHAPTER 6. STREET MAINTENANCE
 Sec. 11-6001. PERMIT AND REGULATIONS FOR WORKING IN, UPON, OVER, UNDER OR ADJACENT TO THE STREETS AND SIDEWALKS.
 (a)Prohibitions where no certificate of eligibility issued.
 Unless and until a written certificate of eligibility to receive permits shall have been issued pursuant to the provisions of this section by the Director of Transportation, or by an authorized employee in the Department of Transportation, either in the form of an annual certificate or a specific certificate covering a particular project: 
@@ -8110,7 +8110,7 @@ Sec. 12-1061. CLOSURE OF CITY STREETS FOR EVENTS.
 (b)	The fees associated with special events regulated by the Special Event Policy shall be as indicated on the City of Raleigh Fee Schedule. Application fees are non-refundable and due when the application is submitted. Permit fees are paid once an application has been approved just prior to the issuance of the permit. 
 ( Ord. No. 2014-343, §13, 9-16-14, eff. 9-21-14 ; Ord. No. 2019-949, §12, 6-4-19, eff. 7-1-19 )
 CHAPTER 2. BUSINESSES AND TRADES
-ARTICLE A. GENERAL REGULATIONS39
+ARTICLE A. GENERAL REGULATIONS
 Secs. 12-2001 — 12-2020. RESERVED.
 ARTICLE B. VEHICLES FOR HIRE
 DIVISION 1. GENERAL PROVISIONS
@@ -8367,7 +8367,7 @@ Sec. 12-2061. SURRENDER OF PERMIT; RETIRING VEHICLES FROM SERVICE.
 Owner's permits which shall have been suspended or revoked by the Council shall, forthwith, be surrendered to the taxicab inspector together with the corresponding memorandum permits, and the operation of any taxicabs covered by such permits shall cease. Any owner who shall permanently retire any taxicabs from taxicab service and not replace same within thirty (30) days thereof shall immediately surrender any permits granted for the operation of such taxicabs to the taxicab inspector. 
 (Code 1959, §22-36)
 Secs. 12-2062 — 12-2070. RESERVED.
-DIVISION 3. ACCESSIBLE RALEIGH TRANSPORTATION PROGRAM40
+DIVISION 3. ACCESSIBLE RALEIGH TRANSPORTATION PROGRAM
 Sec. 12-2071. PARTICIPATION REQUIREMENTS.
 Any taxicab company that operates six (6) or more taxicabs must accept scrip of a type approved by the City in payment for premium taxi service. Scrip shall be sold to eligible ART users in appropriate denominations. The charge in scrip for a trip taken by an ART user shall be an amount no greater than that indicated in the rate schedule rounded to the nearest multiple of twenty-five cents ($0.25). Any taxicab company which has less than six (6) taxicabs in operation is exempt from this division. 
 (Ord. No. 1989-383, §3, 6-6-89)
@@ -8501,7 +8501,7 @@ Sec. 12-2093. EXPIRATION, RENEWAL.
 (d)	The fee of two dollars ($2.00) for the renewal of a driver's permit shall be attached to the application for renewal. Beginning on January 1, 2011,, the cost of driver's renewal fee will increase to ten dollars ($10.00), and then on January 1, 2012, the amount will cap at twenty dollars ($20.00). 
 (Code 1959, §22-55; Ord. No. 2009-671, §§45, 46, 11-3-09)
 Secs. 12-2094 — 12-2100. RESERVED.
-ARTICLE C. PAWNBROKERS41
+ARTICLE C. PAWNBROKERS
 Sec. 12-2101. DEFINITIONS.
 As used in this article the following terms shall be defined as follows: 
 Pawn or Pawn Transaction: A written bailment of personal property as security for debt, redeemable on certain terms within one hundred eighty (180) days, unless renewed, and with an implied power of sale on default. 
@@ -8565,7 +8565,7 @@ All pawnbrokers are required to utilize a reporting system that offers an electr
 (Ord. No. 1992-982, §5, 6-2-92; Ord. No. 2003-410, §1, 3-18-03; Ord. No. 2007-222, §§1, 2, 5-1-07)
 Editor's note(s)—Ord. No. 2007-222, §2, adopted May 1, 2007, shall become effective on May 4, 2008. 
 Secs. 12-2106—12-2110. RESERVED.
-ARTICLE D. AMUSEMENTS42
+ARTICLE D. AMUSEMENTS
 DIVISION 1. GENERAL PROVISIONS
 Sec. 12-2111. THEATERS AND SHOWS; ADVANCE APPLICATION FOR LICENSE, ISSUANCE DISCRETIONARY; TYPES OF SHOWS PROHIBITED.
 (a)	Before any license or permit shall be issued to any carnival company and shows of like character, moving picture and vaudeville shows, museums and menageries, merry-go-rounds and ferris wheels, and other like amusement enterprises, conducted for profit and filling week-stand engagements, or in giving week-stand exhibitions, application shall be made therefor for a period of thirty (30) days before any license or permit shall be issued to such company or enterprise, and it shall be in the discretion of the Council as to whether any license or permit shall be issued to such company or enterprise. 
@@ -8581,7 +8581,7 @@ Sec. 12-2117. PERMIT REQUIRED.
 All establishments located in Raleigh and providing amplified music or other amplified entertainmentshall possess an amplified entertainment permit orshall comply with the requirements applicable in the hospitality district in which the establishment is located. Religious worship facilities and schools are exempt from the provisions of this division. Any establishment located outside a hospitality district and providing amplified entertainment four (4) or fewer times a year is also exempt from the provisions of this division. 
 Violation of this section is punishable under §12-2124. 
 ( Ord. No. 2014-349, §1, 10-7-14, eff. 10-12-14 ; Ord. No. 2022-339 , §42, 2-15-22)
-DIVISION 2. AMPLIFIED ENTERTAINMENT PERMIT43
+DIVISION 2. AMPLIFIED ENTERTAINMENT PERMIT
 Sec. 12-2118. DEFINITION.
 Amplified entertainmentshall mean any type of music or other entertainment delivered through and by an electronic system. Televisions operating with no amplification other than their internal speakers and background music systems operated at a low volume and not intended for entertainment shall not be deemed amplified entertainment.
 Background music or soundshall mean amplified music or amplified sound that cannot be heard or felt outside the structure in which it is played except for brief periods when customers enter or exit the establishment and that is played within the structure at low volume. 
@@ -8771,9 +8771,9 @@ The holder of an HDEPshall provide at least one (1) uniformed sworn law enforcem
 Sec. 12-2130. TERMINATION OR AMENDMENT OF A HOSPITALITY DISTRICT.
 The City Councilmay amend, revise, or terminate any hospitality district by ordinance duly enacted after a public hearing. Notice of the public hearing shall be published once at least ten (10) days before the date of the hearing. Any HDEP issued to an establishment that is no longer within a hospitality district as a result of an amendment, revision, or termination shall automatically convert to an amplified entertainment permit as of the ordinance's effective date and all provisions applicable to amplified entertainment permits shall thereafter apply. 
 ( Ord. No. 2014-349, §10, 10-7-14, eff. 10-12-14 )
-ARTICLE E. RESERVED.44
+ARTICLE E. RESERVED.
 Secs. 12-2131 — 12-2154. RESERVED.
-ARTICLE F. SHORT-TERM RESIDENTIAL OCCUPANCIES45
+ARTICLE F. SHORT-TERM RESIDENTIAL OCCUPANCIES
 Sec. 12-2155. DECLARATION OF NECESSITY.
 It is deemed necessary in order to promote good order and safety of the City and its residents that owners of rooming businesses be licensed. A system of licensing will: 
 (a)	Reduce the likelihood that these residential housing accommodations will become public nuisances in violation of G.S. 19-1(b). 
@@ -8830,7 +8830,7 @@ For purposes of this section, "operator representative" shall mean an individual
 (c)	Any changes in licensure status or in designated "operator representative" must be reported to the Zoning Enforcement Administrator immediately. 
 (Ord. No. 1994-365-TC-71, §21, TC-22-93, 4-5-94; Ord. No. 2011-953, §§1, 2, 10-4-11; Ord. No. 2012-16, §1, 2-21-12)
 Cross reference: Radius requirements for multi-unit supportive housing residences and supportive housing residences, §10-2072(b). 
-ARTICLE G. PROBATIONARY RENTAL OCCUPANCY PERMIT46
+ARTICLE G. PROBATIONARY RENTAL OCCUPANCY PERMIT
 Sec. 12-2162. FINDINGS AND DECLARATION OF NECESSITY.
 (a)	Findings: Housing in the City consists of owner occupied and tenant occupied properties and the two types of housing are in general parity. The substantial majority of complaints about and violations of the Code provisions adopted to assure minimum adequate housing arise from tenant occupied property. State law and this Code impose the responsibility to provide minimally adequate housing for tenants on the property owner. Existing remedial measures in the Code are insufficient to achieve prompt Code compliance resulting in significant adverse impacts on the public health, safety, and welfare of the City including the quality of life for tenants, affected neighborhoods and the City. To expedite compliance with the Code at such properties and thereby assure better quality housing for tenants and the neighborhood, the Council finds it necessary to adopt additional remedial measures for more effective compliance with the Code at such properties. 
 (b)	Declaration of necessity: It is deemed necessary in order to promote public health, welfare, good order and safety of the City and its residents that persons renting residential properties where there exist certain unsafe building, minimum housing, zoning or nuisance Code violations should be subject to a permitting system. Permitting will: 
@@ -9116,7 +9116,7 @@ It shall be unlawful for any person to sell or offer for sale, or permit to be s
 Sec. 12-3007. RUNNING AT LARGE PROHIBITED.
 It shall be unlawful for the owner of any domesticated animal to allow such animal to be at-large within the corporate limits of the City or on any City property. Violation of this section is a misdemeanor and may also be enforced through issuance of a civil penalty pursuant to §14-1005, through injunctive or other equitable relief, or a combination of remedies. 
 (Code 1959, §4-7; Ord. No. 1982-941, §1, 7-20-82; Ord. No. 2009-552, §2, 3-3-09, eff. 7-1-09; Ord. No. 2020-114 , §2, 7-7-20; Ord. No. 2022-339 , §44, 2-15-22)
-ARTICLE B. DOGS AND CATS47
+ARTICLE B. DOGS AND CATS
 DIVISION 1. GENERALLY
 Sec. 12-3008. INOCULATION OF DOGS, CATS AND OTHER PETS.
 (a)Inoculation.
@@ -9154,9 +9154,9 @@ Sec. 12-3013. TETHERING REQUIREMENTS.
 (a)	No person shall tether a dog to a tree, fence, post, dog house, or other stationary object for more than three (3) hours total in a twenty-four (24) hour period. Any device used to tether shall be at least ten (10) feet long and attached in such a manner as to prevent strangulation or other injury to the dog and entanglement with other objects. A cable trolley system may be used to tether for the allowed period so long as the stationary cable is at least ten (10) feet long and the dog can perpendicularly move at least ten (10) feet away from the stationary line. The line should be attached to the dog with a buckle type collar or a body harness. The device used to tether shall weigh no more than ten (10) percent of the dog's body weight and must allow the dog access to adequate food and water. In addition to being a misdemeanor, a violation of this section is subject to a civil penalty of one hundred dollars ($100.00) per day for each day of violation. 
 (b)	Any dog that is confined in the manner described in this section shall have access to adequate shelter as herein defined to include periods of extreme weather. 
 (Ord. No. 2020-114 , §3, 7-7-20)
-DIVISION 2. RESERVED48
+DIVISION 2. RESERVED
 Secs. 12-3014—12-3020. RESERVED.
-ARTICLE C. NUISANCE ANIMALS AND DANGEROUS DOGS49
+ARTICLE C. NUISANCE ANIMALS AND DANGEROUS DOGS
 Sec. 12-3021. PUBLIC NUISANCE ANIMALS.
 (a)Prohibited generally; exceptions.
 It shall be unlawful to own, keep, or harbor a public nuisance animal within the City. Provided, however, it shall not be unlawful to own or keep a dog of vicious tendencies for the protection of persons or property, if such dog is securely confined in a manner not to expose it to the general public. This exception for dogs of vicious tendencies does not extend to dogs which excessively make disturbing noises. Violation of this section is a misdemeanor and may also be enforced through issuance of a civil penalty pursuant to §14-1005, through injunctive or other equitable relief, or a combination of remedies. 
@@ -9558,7 +9558,7 @@ In addition to other remedies, this chapter may be enforced by any one, all, or 
 (Ord. No. 1977-580, §3, 7-5-77; Ord. No. 1978-773, §4, 4-18-78; Ord. No. 1995-763, §1, 11-8-95; Ord. No. 2009-583, §2, 5-19-09, eff. 7-1-09; Ord. No. 2022-339 , §52, 2-15-22)
 Cross reference: Violations of this Code, §14-1005. 
 State law reference: Violations of municipal ordinances, enforcement alternatives, G.S. 160A-175. 
-CHAPTER 6. HEALTH, SANITATION AND PUBLIC NUISANCES50
+CHAPTER 6. HEALTH, SANITATION AND PUBLIC NUISANCES
 Sec. 12-6001. ENFORCEMENT BY INSPECTION DEPARTMENT.
 The Department of Inspections is charged with the duty of full enforcement of this chapter and any inspector thereof is clothed with full power and authority imposed by this chapter and is hereby authorized and directed to proceed to carry out its provisions; provided that the identification of nuisances as described in §12-6002(p) shall be the responsibility of the Public Works Director or his designee. 
 (Ord. No. 1995-785, §1, 11-21-95; Ord. No. 2006-27, §1, 5-16-06)
@@ -9800,7 +9800,7 @@ Fifth violation within a two-year period of the first violation $1,000.00
 Sec. 12-7016. ADMINISTRATIVE FEE.
 Any owner of a property within the City whose property has a nuisance vehicle on it as defined by City Code §10-7002(d)(1)—(9) shall be subject to an administrative fee of one hundred dollars ($100.00) per vehicle. The property owner may also be assessed any costs in obtaining service of the nuisance vehicle notice including legal publication. 
 (Ord. No. 2004-671, §1, 7-6-04)
-CHAPTER 8. AUTOMOBILE REPAIR BUSINESSES51
+CHAPTER 8. AUTOMOBILE REPAIR BUSINESSES
 Sec. 12-8000. DEFINITIONS.
 Automobile repair facility. Any motor vehicle dealership, garage, body shop or any other business at which repairs and replacements are made to the bodies and windshields of motor vehicles. 
 Owner or operator. Anyone owning or operating an automobile repair facility or anyone in their employ or any independent contractor engaged in working on automobile bodies or windshields in an automobile repair facility.
@@ -10244,7 +10244,7 @@ Sec. 13-3018. SALE OF DRUG STEM INTENDED FOR ILLEGAL DRUG USE.
 Sec. 13-3019. USE OF PINE STRAW MULCH.
 No pine straw mulch shall be placed, kept, or stored within ten (10) feet of buildings with combustible exterior construction. This provision shall not apply to one and two family dwellings as defined in Section R101.2 of the North Carolina Residential Building Code, as the same may be amended, nor shall it apply to pine straw falling from trees located on the same parcel as the dwelling. 
 (Ord. No. 2010-732, §1, 5-4-10, eff. 12-1-10)
-CHAPTER 4. REGULATION OF SECURITY AND FIRE ALARM SYSTEMS55
+CHAPTER 4. REGULATION OF SECURITY AND FIRE ALARM SYSTEMS
 Sec. 13-4001. PURPOSE.
 The purpose of this chapter is to encourage alarm users to properly use and maintain the operational effectiveness and proper utilization of alarm systems and to reduce or eliminate false alarms which may unduly divert police and fire resources. 
 This chapter governs systems intended to summon law enforcement or other public safety response, establishes fees, provides for penalties for violations, establishes a system of administration, and sets conditions for suspension. 
@@ -10383,7 +10383,7 @@ Sec. 13-4011. [SEVERABILITY.]
 (c)	If this ordinance or application thereof to any person or circumstance is held invalid, such invalidity shall not affect other provisions or applications of the ordinance which can be given separate effect and to this end the provisions of this ordinance are declared to be severable. 
 (d)	This ordinance shall become effective September 1, 2004. 
 (Ord. No. 2004-677, §2, 7-20-04)
-CHAPTER 5. OFFENSES AGAINST THE ENVIRONMENT56
+CHAPTER 5. OFFENSES AGAINST THE ENVIRONMENT
 Sec. 13-5001. TITLE.
 This chapter shall be known and may be cited as the City of Raleigh's "Illicit Discharge Ordinance." 
 (Ord. No. 1995-573, §2, 3-7-95)
