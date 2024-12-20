@@ -64,7 +64,6 @@ def parse_charter(content, start_idx, end_idx, tag_name):
     if prev_elem is not None:
         prev_elem.text = "\n".join(text_lines)
         text_lines = []
-    
     return elem
 
 def parse_back(content, start_idx, end_idx, tag_name):
