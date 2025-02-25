@@ -49,19 +49,19 @@ def parse_charter(content, start_idx, end_idx, tag_name):
         section_match = re.search(section_regex, line)
         if article_match:
             current_article = etree.SubElement(elem, 'article', id=article_match.group(1), title=article_match.group(2))
-            if len(text_lines) > 0 and prev_elem is not None:
+            if prev_elem is not None:
                 prev_elem.text = "\n".join(text_lines)
                 text_lines = []
             prev_elem = current_article
         elif section_match is not None and current_article is not None:
             current_section = etree.SubElement(current_article, 'section', num=section_match.group(1), title=section_match.group(2))
-            if len(text_lines) > 0 and prev_elem is not None:
+            if prev_elem is not None:
                 prev_elem.text = "\n".join(text_lines)
                 text_lines = []
             prev_elem = current_section
         else:
             text_lines.append(line)
-    if len(text_lines) > 0 and prev_elem is not None:
+    if prev_elem is not None:
         prev_elem.text = "\n".join(text_lines)
         text_lines = []
     
