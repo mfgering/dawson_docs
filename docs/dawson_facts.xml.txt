@@ -18,5 +18,18 @@
 <fact>The Dawson floorplans, also known as blueprints, are downloadable from the Nabr website in the HOA group documents area.</fact>
 <fact>The Dawson covenants are defined by various sections in the Declarations document.</fact>
 <fact>The Dawson bylaws are defined as Exhibit C in the Declarations document.</fact>
-<fact>The Dawson Rules are defined in the "Rules and Regulations" document. The initial version is part of the Declarations document. Subsequent versions are in separate documents.</fact>
+<fact>The Dawson rules and regulations are initially defined in the Declarations document. Subsequent versions are defined in a separate document entitled "Rules and Regulations".</fact>
+<fact>Each residential floor has a trash chute next to the freight elevator.</fact>
+<fact>Lockboxes, one per unit, are located in the driveway entrance.</fact>
+<fact>Storage bins, one per unit, are located under the southwest corner of the parking lot, accessed via two stairways.</fact>
+<fact>Vehicles leave the parking lot through the exit gate located on Dawson Street.</fact>
+<fact>The driveway entrance gate is opened by a fob or sticker mounted inside a vehicle.</fact>
+<fact>Vehicles enter the parking lot from a driveway on Morgan Street.</fact>
+<fact>Mail is delivered to the mailboxes, and is picked up a depository next to the mailboxes.</fact>
+<fact>Mailboxes, one mailbox per unit, are located in the parking lot, just outside the inner lobby.</fact>
+<fact>There are two lobbies: an inner lobby with a passenger elevator and an outer lobby with chairs and desks.</fact>
+<fact>The ratified Assessment Income for the 2023 Budget is $322,365.</fact>
+<fact>The ratified Assessment Income for the 2024 Budget is $354,602.</fact>
+<fact>The ratified Assessment Income for the 2025 Budget is $401,761.</fact>
+<fact>Contact the property manager for replacement keys, fobs, and windshield transponders (stickers).</fact>
 </dawson-facts>
